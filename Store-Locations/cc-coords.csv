@@ -1,0 +1,551 @@
+name,address,phone,latitude,longitude
+Chuck E. Cheese Wilmington,"4389 Oleander Drive, Wilmington, NC",,error,error
+Chuck E. Cheese Fairfax,"9404 Main St, Fairfax, VA",,error,error
+Chuck E. Cheese Escondido,"1126 W. Valley Pkwy., Escondido, CA",,error,error
+Chuck E. Cheese Foothill Ranch,"26562 Towne Centre Drive, Foothill Ranch, CA",,error,error
+Chuck E. Cheese Cupertino,"19805 Stevens Creek Blvd., Cupertino, CA",,error,error
+Chuck E. Cheese Monrovia,"558 W. Huntington Dr., Monrovia, CA",,error,error
+Chuck E. Cheese Lynwood,"3140 Imperial Highway, Lynwood, CA",,error,error
+Chuck E. Cheese Fontana,"17069 Valley Blvd.- Ste. D, Fontana, CA",,error,error
+Chuck E. Cheese Northridge,"8425 Reseda Blvd., Northridge, CA",,error,error
+Chuck E. Cheese Lancaster,"44410 Valley Central Way, Lancaster, CA",,error,error
+Chuck E. Cheese Colorado Springs,"2925 Geyser Drive, Colorado Springs, CO",,error,error
+Chuck E. Cheese Thousand Oaks,"130 W. Hillcrest Dr., Thousand Oaks, CA",,error,error
+Chuck E. Cheese Torrance,"16920 Prairie Ave., Torrance, CA",,error,error
+Chuck E. Cheese Englewood,"1001 W. Hampden Ave., Englewood, CO",,error,error
+Chuck E. Cheese Littleton,"7510 Parkway Dr., Littleton, CO",,error,error
+Chuck E. Cheese Vista,"1861 University Drive, Vista, CA",,error,error
+Chuck E. Cheese Victorville,"12790 Amargosa Rd., Victorville, CA",,error,error
+Chuck E. Cheese San Jose,"2445 Fontaine Road, San Jose, CA",,error,error
+Chuck E. Cheese Grand Junction,"2424 US Hwy. 6 and 50, Grand Junction, CO",,error,error
+Chuck E. Cheese Visalia,"4345 W. Noble Avenue, Visalia, CA",,error,error
+Chuck E. Cheese Walnut Park,"7726 South Alameda Street, Walnut Park, CA",,error,error
+Chuck E. Cheese Wilmington,"3601 Silverside Rd., Wilmington, DE",,error,error
+Chuck E. Cheese Greeley,"2309 Greeley Mall, Greeley, CO",,error,error
+Chuck E. Cheese Jacksonville,"9820 Atlantic Blvd., Jacksonville, FL",,error,error
+Chuck E. Cheese Miami,"18575 S. Dixie Hwy., Miami, FL",,error,error
+Chuck E. Cheese Miami,"20335 Biscayne Blvd.- Ste. L-1, Miami, FL",,error,error
+Chuck E. Cheese Miami,"8701 SW 124th Ave, Miami, FL",,error,error
+Chuck E. Cheese Orlando,"7456 W. Colonial Dr., Orlando, FL",,error,error
+Chuck E. Cheese Orlando,"449 N. Alafaya Trail, Orlando, FL",,error,error
+Chuck E. Cheese Atlanta,"2990 Cumberland Blvd SE, Atlanta, GA",,error,error
+Chuck E. Cheese Conyers,"1530 Dogwood Drive SE, Conyers, GA",,error,error
+Chuck E. Cheese Douglasville,"6890 Douglas Blvd., Douglasville, GA",,error,error
+Chuck E. Cheese Goodyear,"13371 West McDowell Road, Goodyear, AZ",,error,error
+Chuck E. Cheese Dothan,"1001 Commons Drive, Dothan, AL",,error,error
+Chuck E. Cheese Yuma,"1348 S. Yuma Palms Parkway, Yuma, AZ",,error,error
+Chuck E. Cheese Bakersfield,"3760 Ming Ave., Bakersfield, CA",,error,error
+Chuck E. Cheese Decatur,"1801 Beltline Rd. Suite G, Decatur, AL",,error,error
+Chuck E. Cheese Mobile,"710 Downtowner Loop W, Mobile, AL",,error,error
+Chuck E. Cheese Birmingham,"4647 Hwy. 280, Birmingham, AL",,error,error
+Chuck E. Cheese Huntsville,"1220 Jordon Lane NW, Huntsville, AL",,error,error
+Chuck E. Cheese Mesa,"7012 E. Hampton Avenue Suite 104, Mesa, AZ",,error,error
+Chuck E. Cheese Mentor,"8000 Plaza Blvd.- Unit J, Mentor, OH",,error,error
+Chuck E. Cheese Miamisburg,"30 Prestige Place, Miamisburg, OH",,error,error
+Chuck E. Cheese Springfield,"1716 Boston Rd., Springfield, MA",,error,error
+Chuck E. Cheese Attleboro,"287 Washington St. South, Attleboro, MA",,error,error
+Chuck E. Cheese West St. Paul,"1422 South Roberts, West St. Paul, MN",,error,error
+Chuck E. Cheese Leominster,"132 Sacks Blvd., Leominster, MA",,error,error
+Chuck E. Cheese Florence,"7635 Mall Road, Florence, KY",,error,error
+Chuck E. Cheese Overland Park,"10510 Metcalf Lane, Overland Park, KS",,error,error
+Chuck E. Cheese Muncie,"1611 W. McGalliard Rd., Muncie, IN",,error,error
+Chuck E. Cheese Indianapolis,"8804 US 31 South, Indianapolis, IN",,error,error
+Chuck E. Cheese St. Petersburg,"1024 58th St. North, St. Petersburg, FL",,error,error
+Chuck E. Cheese West Melbourne,"2250 Coastal Lane, West Melbourne, FL",,error,error
+Chuck E. Cheese Maple Grove,"12945 Elm Creek Blvd., Maple Grove, MN",,error,error
+Chuck E. Cheese Toledo,"5077 Monroe, Toledo, OH",,error,error
+Chuck E. Cheese Toledo,"5455 Airport Hwy Ste 9-I, Toledo, OH",,error,error
+Chuck E. Cheese Downingtown,"911 E. Lancaster Ave, Downingtown, PA",,error,error
+Chuck E. Cheese Oklahoma City,"6817 NW Expressway, Oklahoma City, OK",,error,error
+Chuck E. Cheese Portland,"9120 SE Powell, Portland, OR",,error,error
+Chuck E. Cheese Salem,"3240 Lancaster Drive NE, Salem, OR",,error,error
+Chuck E. Cheese Norman,"2201 Interstate Drive, Norman, OK",,error,error
+Chuck E. Cheese Harrisburg,"3883 Union Deposit Rd., Harrisburg, PA",,error,error
+Chuck E. Cheese Beaverton,"4145 SW 110th Avenue, Beaverton, OR",,error,error
+Chuck E. Cheese Oklahoma City,"2241 West Memorial Rd., Oklahoma City, OK",,error,error
+Chuck E. Cheese Bridgeville,"1035 Washington Pike, Bridgeville, PA",,error,error
+Chuck E. Cheese Warren,"2082 Niles Cortland Rd.- SE, Warren, OH",,error,error
+Chuck E. Cheese Altoona,"3415 Pleasant Valley Shopping Center, Altoona, PA",,error,error
+Chuck E. Cheese Dickson City,"1003 Commerce BLvd., Dickson City, PA",,error,error
+Chuck E. Cheese Tulsa,"7108 S. Memorial Dr., Tulsa, OK",,error,error
+Chuck E. Cheese Clarksville,"2821 B. Wilma Rudolph Blvd., Clarksville, TN",,error,error
+Chuck E. Cheese Rapid City,"30 Knollwood Drive, Rapid City, SD",,error,error
+Chuck E. Cheese Greenville,"253 Congaree Rd., Greenville, SC",,error,error
+Chuck E. Cheese Chattanooga,"22 Northgate Park, Chattanooga, TN",,error,error
+Chuck E. Cheese Columbia,"1775 Burning Tree, Columbia, SC",,error,error
+Chuck E. Cheese Sumter,"1121 Broad Street, Sumter, SC",,error,error
+Chuck E. Cheese Sioux Falls,"2600 Louise, Sioux Falls, SD",,error,error
+Chuck E. Cheese North Charleston,"7258 Rivers Avenue, North Charleston, SC",,error,error
+Chuck E. Cheese Jackson,"2021 North Highland Avenue, Jackson, TN",,error,error
+Chuck E. Cheese Antioch,"5312 Hickory Hollow Lane, Antioch, TN",,error,error
+Chuck E. Cheese Knoxville,"8225 Kingston Pike, Knoxville, TN",,error,error
+Chuck E. Cheese Memphis,"3649 Hickory Hill Rd., Memphis, TN",,error,error
+Chuck E. Cheese Johnson City,"3020 Peoples Street, Johnson City, TN",,error,error
+Chuck E. Cheese Warwick,"650 Bald Hill Rd., Warwick, RI",,error,error
+Chuck E. Cheese Cordova,"1636 N. Germantown Pkwy, Cordova, TN",,error,error
+Chuck E. Cheese Madison,"2070 Gallatin Rd. North, Madison, TN",,error,error
+Chuck E. Cheese Beaumont,"4180 N. Dowlen Rd., Beaumont, TX",,error,error
+Chuck E. Cheese Amarillo,"2500 S. Coulter St.- Suite 124, Amarillo, TX",,error,error
+Chuck E. Cheese Austin,"10515 North Mopac Expressway, Austin, TX",,error,error
+Chuck E. Cheese Austin,"9811 S. I-35, Austin, TX",,error,error
+Chuck E. Cheese Murfreesboro,"1720 Old Fort Parkway, Murfreesboro, TN",,error,error
+Chuck E. Cheese Arlington,"2216 S. Fielder Rd., Arlington, TX",,error,error
+Chuck E. Cheese College Station,"1500 Harvey Road, College Station, TX",,error,error
+Chuck E. Cheese Austin (Round Rock),"401 W. Louis Henna Blvd., Austin (Round Rock), TX",,error,error
+Chuck E. Cheese Conroe,"16790 Interstate 45 South, Conroe, TX",,error,error
+Chuck E. Cheese Corpus Christi,"5118 S. Staples, Corpus Christi, TX",,error,error
+Chuck E. Cheese Brownsville,"2800 N. Expressway, Brownsville, TX",,error,error
+Chuck E. Cheese Mount Juliet,"60 Belinda Parkway, Mount Juliet, TN",,error,error
+Chuck E. Cheese Abilene,"4310 Buffalo Gap Road, Abilene, TX",,error,error
+Chuck E. Cheese Las Vegas,"7381 W. Lake Mead, Las Vegas, NV",,error,error
+Chuck E. Cheese Billings,"100  24th Street, Billings, MT",,error,error
+Chuck E. Cheese Montgomery,"1116 Eastdale Mall, Montgomery, AL",,error,error
+Chuck E. Cheese Jonesboro,"3400 E. Highland Dr., Jonesboro, AR",,error,error
+Chuck E. Cheese Burnsville,"1025 Burnsville Center, Burnsville, MN",,error,error
+Chuck E. Cheese Flushing,"40-24 College Point Blvd. Suite B213, Flushing, NY",,error,error
+Chuck E. Cheese Horn Lake,"7178 DeSoto Cove, Horn Lake, MS",,error,error
+Chuck E. Cheese Bronx,"700 Exterior Street, Bronx, NY",,error,error
+Chuck E. Cheese Rochester,"3130 Ridge Road West, Rochester, NY",,error,error
+Chuck E. Cheese Brooklyn,"139 Flatbush Avenue, Brooklyn, NY",,error,error
+Chuck E. Cheese Poughkeepsie,"1895 South Rd., Poughkeepsie, NY",,error,error
+Chuck E. Cheese Kansas City,"9196 N. Skyview Avenue, Kansas City, MO",,error,error
+Chuck E. Cheese Nanuet,"250 West Route 59, Nanuet, NY",,error,error
+Chuck E. Cheese Las Vegas,"350 N. Nellis Blvd. Suite 100, Las Vegas, NV",,error,error
+Chuck E. Cheese Latham,"601 Troy Schenectady Rd., Latham, NY",,error,error
+Chuck E. Cheese Bronx,"1816 Gunhill Road, Bronx, NY",,error,error
+Chuck E. Cheese Long Island City,"3419 48th St., Long Island City, NY",,error,error
+Chuck E. Cheese New Hartford,"4631 Commercial Drive, New Hartford, NY",,error,error
+Chuck E. Cheese Patchogue,"121 Sunrise Hwy., Patchogue, NY",,error,error
+Chuck E. Cheese Rochester,"1000 Hylan Drive, Rochester, NY",,error,error
+Chuck E. Cheese Brentwood,"6061 Lone Tree Way, Brentwood, CA",,37.9601728,-121.7401173
+Chuck E. Cheese Waldorf,"3241 Plaza Way, Waldorf, MD",,38.6242771,-76.9158684
+Chuck E. Cheese Aurora,"14005 E. Exposition Ave., Aurora, CO",,39.7048413,-104.8253587
+Chuck E. Cheese Covina,"601 Azusa Ave., Covina, CA",,34.091613,-117.908682
+Chuck E. Cheese Hayward,"24039 Hesperian Blvd., Hayward, CA",,37.6521597,-122.1113923
+Chuck E. Cheese Fayetteville,"786 Glynn Street N., Fayetteville, GA",,33.4667705,-84.4490591
+Chuck E. Cheese Pembroke Pines,"8515 Pines Blvd., Pembroke Pines, FL",,26.0097405,-80.25649609999999
+Chuck E. Cheese Jonesboro,"335 Upper Riverdale Rd., Jonesboro, GA",,33.582653,-84.38024469999999
+Chuck E. Cheese Tampa,"14308 Dale Mabry Hwy, Tampa, FL",,28.0763,-82.50789
+Chuck E. Cheese Fresno,"7809 N. Blackstone, Fresno, CA",,36.849253,-119.7920908
+Chuck E. Cheese Orlando,"7419 International Drive, Orlando, FL",,28.4545391,-81.4702514
+Chuck E. Cheese Pasadena,"3737 E. Foothill, Pasadena, CA",,34.151123,-118.0725404
+Chuck E. Cheese Moreno Valley,"23160 Sunnymead Blvd., Moreno Valley, CA",,33.94011649999999,-117.2585179
+Chuck E. Cheese Pinole,"1470 Fitzgerald Dr, Pinole, CA",,37.9903639,-122.3079895
+Chuck E. Cheese National City,"1143 Highland Ave., National City, CA",,32.67512190000001,-117.0973648
+Chuck E. Cheese Naples,"1000 Immokalee Rd., Naples, FL",,26.2691149,-81.8001026
+Chuck E. Cheese Fairfield,"1027 Oliver Road, Fairfield, CA",,38.2523505,-122.0685666
+Chuck E. Cheese Athens,"3654-I Atlanta Hwy., Athens, GA",,33.9407501,-83.4581029
+Chuck E. Cheese Sunrise,"8099 W Oakland Park Blvd, Sunrise, FL",,26.16778,-80.2594438
+Chuck E. Cheese Sheffield,"4700 Hatch Blvd, Sheffield, AL",,34.7663027,-87.6684002
+Chuck E. Cheese Ventura,"4714 Telephone Rd., Ventura, CA",,34.2610712,-119.2318709
+Chuck E. Cheese Laguna Hills,"26538-H Moulton Parkway, Laguna Hills, CA",,33.5780737,-117.7016897
+Chuck E. Cheese Modesto,"3037 Sisk Road, Modesto, CA",,37.6832264,-121.0510363
+Chuck E. Cheese Alpharetta,"925 North Point Drive, Alpharetta, GA",,34.0516719,-84.28178170000001
+Chuck E. Cheese La Mirada,"15100 Rosecrans, La Mirada, CA",,33.8972311,-118.0086253
+Chuck E. Cheese West Hills,"22940 Van Owen St., West Hills, CA",,34.1920519,-118.6271627
+Chuck E. Cheese Tucson,"6125 East Speedway Blvd, Tucson, AZ",,32.2367524,-110.8613456
+Chuck E. Cheese Hemet,"2375 West Florida Avenue, Hemet, CA",,33.7469449,-116.9967503
+Chuck E. Cheese Canton,"42001 Ford Rd., Canton, MI",,42.32207,-83.455905
+Chuck E. Cheese Columbus,"3201 Macon Rd., Columbus, GA",,32.4814367,-84.9465554
+Chuck E. Cheese Wesley Chapel,"6170 Wesley Grove Blvd., Wesley Chapel, FL",,28.2470988,-82.3478169
+Chuck E. Cheese Augusta,"3435 Wrightsboro Rd., Augusta, GA",,33.4693132,-82.08241819999999
+Chuck E. Cheese Albany,"2601 Dawson Road, Albany, GA",,31.6184484,-84.217011
+Chuck E. Cheese Buford,"1690 Mall of Georgia Blvd, Buford, GA",,34.06307,-83.99319109999999
+Chuck E. Cheese Pompano Beach,"2201 N Federal Highway #201, Pompano Beach, FL",,26.4857331,-80.06427529999999
+Chuck E. Cheese Dover,"1275 N. DuPont Hwy., Dover, DE",,39.1908699,-75.5390881
+Chuck E. Cheese Glendale,"6773 West Bell Road, Glendale, AZ",,33.6358674,-112.2049146
+Chuck E. Cheese W. Palm Beach,"2471 Okeechobee Blvd, W. Palm Beach, FL",,26.7074436,-80.089663
+Chuck E. Cheese Elk Grove,"9161 E. Stockton Blvd  Pad B, Elk Grove, CA",,38.425741,-121.39209
+Chuck E. Cheese Troy,"740 John R Road, Troy, MI",,42.541278,-83.1059992
+Chuck E. Cheese North Little Rock,"4120 Landers Rd., North Little Rock, AR",,34.7924192,-92.221553
+Chuck E. Cheese Sun Valley,"8375 Laurel Canyon Blvd., Sun Valley, CA",,34.2237792,-118.3989003
+Chuck E. Cheese Fresno,"3117 W. Shaw- Ste. 107, Fresno, CA",,36.8073262,-119.8471101
+Chuck E. Cheese Little Rock,"2706 S. Shackleford Rd., Little Rock, AR",,34.7280898,-92.39563389999999
+Chuck E. Cheese Carson,"20700 Avalon Blvd., Suite 175, Carson, CA",,33.8439058,-118.2609355
+Chuck E. Cheese El Centro,"803 E. Danenberg Drive, El Centro, CA",,32.7664286,-115.5282771
+Chuck E. Cheese Ft. Collins,"105 W. Prospect Rd., Ft. Collins, CO",,40.5659505,-105.0776385
+Chuck E. Cheese Norwalk,"10949 Firestone, Norwalk, CA",,33.9237041,-118.0996132
+Chuck E. Cheese La Mesa,"5500 Grossmont Ctr. Dr. Ste. J-34, La Mesa, CA",,32.77776619999999,-117.0094676
+Chuck E. Cheese Los Angeles,"2706 Wilshire Blvd, Los Angeles, CA",,34.0609199,-118.2830843
+Chuck E. Cheese Lakeland,"3558 US Hwy 98 North, Lakeland, FL",,28.0874558,-81.9733906
+Chuck E. Cheese Chino,"5250 Philadelphia- Ste.K, Chino, CA",,34.0344605,-117.6909429
+Chuck E. Cheese Murrieta,"25110 Hancock Ave Ste 101-106, Murrieta, CA",,33.5688942,-117.1819123
+Chuck E. Cheese Burbank,"930 N. San Fernando Blvd., Burbank, CA",,34.1878469,-118.316464
+Chuck E. Cheese Tuscaloosa,"1800 McFarland Blvd. E., Ste. 508, Tuscaloosa, AL",,33.1936803,-87.5276319
+Chuck E. Cheese Dublin,"7448 Amador Valley Blvd., Dublin, CA",,37.70896430000001,-121.9293115
+Chuck E. Cheese Fullerton,"1134 S. Harbor Blvd., Fullerton, CA",,33.86096940000001,-117.9227511
+Chuck E. Cheese Fayetteville,"2999 N. College Ave. Ste. 12, Fayetteville, AR",,36.1064472,-94.1490602
+Chuck E. Cheese Roseville,"31920 Gratiot, Roseville, MI",,42.5306687,-82.9121373
+Chuck E. Cheese Port Orange,"5539 S. Williamson Blvd, Port Orange, FL",,29.1093033,-81.0338012
+Chuck E. Cheese Los Angeles,"2700 Colorado Blvd., Los Angeles, CA",,34.1409207,-118.2250677
+Chuck E. Cheese Garden Grove,"13101 Harbor Blvd., Garden Grove, CA",,33.7729613,-117.9216294
+Chuck E. Cheese Phoenix,"8039 North 35th Avenue, Phoenix, AZ",,33.554574,-112.133531
+Chuck E. Cheese Jacksonville,"6065 Youngerman Circle, Jacksonville, FL",,30.1955618,-81.7410788
+Chuck E. Cheese Pearland,"3141 Silverlake Village Drive, Pearland, TX",,error,error
+Chuck E. Cheese San Antonio,"6874 Ingram Rd. , San Antonio, TX",,error,error
+Chuck E. Cheese San Antonio,"238  SW Military Dr., San Antonio, TX",,error,error
+Chuck E. Cheese Colorado Springs,"5156 N. Academy Blvd., Colorado Springs, CO",,error,error
+Chuck E. Cheese Torrance,"2821 Pacific Coast Hwy., Torrance, CA",,error,error
+Chuck E. Cheese San Bernardino,"955 South E St. Ste. G, San Bernardino, CA",,error,error
+Chuck E. Cheese Stockton,"6436 Pacific Avenue, Stockton, CA",,error,error
+Chuck E. Cheese San Diego,"9840 Hibert St., San Diego, CA",,error,error
+Chuck E. Cheese San Bernardino,"777 E. Hospitality Lane, San Bernardino, CA",,error,error
+Chuck E. Cheese San Diego,"3146 Sports Arena Blvd., San Diego, CA",,error,error
+Chuck E. Cheese Salinas,"1447 North Davis Rd., Salinas, CA",,error,error
+Chuck E. Cheese San Bruno,"1270-1272 El Camino Real, San Bruno, CA",,error,error
+Chuck E. Cheese Palm Desert,"72513 HWY.111 Suite B, Palm Desert, CA",,error,error
+Chuck E. Cheese Orange,"1875 N. Tustin Street, Orange, CA",,error,error
+Chuck E. Cheese Huntington Beach,"15511 Edwards St., Huntington Beach, CA",,error,error
+Chuck E. Cheese Santa Maria,"2254 S. Bradley Road, Santa Maria, CA",,error,error
+Chuck E. Cheese Oceanside,"2481 Vista Way, Oceanside, CA",,error,error
+Chuck E. Cheese Los Angeles,"6901 LaTijera Blvd., Los Angeles, CA",,error,error
+Chuck E. Cheese Newark,"39839 Mowry School Rd., Newark, CA",,error,error
+Chuck E. Cheese Long Beach,"290 E. 4th Street, Long Beach, CA",,error,error
+Chuck E. Cheese San Jose,"1371 Kooser Rd., San Jose, CA",,error,error
+Chuck E. Cheese Tyler,"736 West SW Loop 323, Tyler, TX",,error,error
+Chuck E. Cheese Selma,"14565 IH 35 North, Selma, TX",,error,error
+Chuck E. Cheese Stafford,"11920 Southwest Frwy., Stafford, TX",,error,error
+Chuck E. Cheese Sugarland,"2303 Town Center Drive, Sugarland, TX",,error,error
+Chuck E. Cheese San Antonio,"11735 Bandera Road, San Antonio, TX",,error,error
+Chuck E. Cheese Sherman,"3808 US 75 North, Sherman, TX",,error,error
+Chuck E. Cheese Texarkana,"2400 Richmond Rd. Ste. 99, Texarkana, TX",,error,error
+Chuck E. Cheese Waco,"5106 West Waco Drive, Waco, TX",,error,error
+Chuck E. Cheese Webster,"1541 West Bay Area Blvd., Webster, TX",,error,error
+Chuck E. Cheese Weslaco,"725 E. Expressway 83, Weslaco, TX",,error,error
+Chuck E. Cheese White Settlement,"7750 Scott St., White Settlement, TX",,error,error
+Chuck E. Cheese Layton,"450 North Main Street, Layton, UT",,error,error
+Chuck E. Cheese Wichita Falls,"2935 SW Parkway, Wichita Falls, TX",,error,error
+Chuck E. Cheese Salt Lake City,"389 W. 1830 South Ste 700, Salt Lake City, UT",,error,error
+Chuck E. Cheese Sacramento,"1690-96 Arden Way, Sacramento, CA",,error,error
+Chuck E. Cheese Redding,"910 Hilltop Drive, Redding, CA",,error,error
+Chuck E. Cheese Redwood City,"2541-43 El Camino Real, Redwood City, CA",,error,error
+Chuck E. Cheese Roseville,"9601 Fairway Dr., Roseville, CA",,error,error
+Chuck E. Cheese Pico Rivera,"6005 Rosemead Blvd., Pico Rivera, CA",,error,error
+Chuck E. Cheese Rancho Cucamonga,"9339 Foothill Blvd.- Ste. E, Rancho Cucamonga, CA",,error,error
+Chuck E. Cheese Placentia,"2300 N. Rose Dr., Placentia, CA",,error,error
+Chuck E. Cheese Rockville,"5270 Randolph Road, Rockville, MD",,error,error
+Chuck E. Cheese Hagerstown,"17618 Valley Mall Blvd., Hagerstown, MD",,error,error
+Chuck E. Cheese Bossier City,"2515 Viking Drive, Bossier City, LA",,error,error
+Chuck E. Cheese Rochester,"1250 16th Street SW, Rochester, MN",,error,error
+Chuck E. Cheese Walker,"3108 Alpine Ave, Walker, MI",,error,error
+Chuck E. Cheese Dulles (Sterling),"21025 Dulles Town Circle, Dulles (Sterling), VA",,error,error
+Chuck E. Cheese Fredericksburg,"1280 Central Park Blvd., Fredericksburg, VA",,error,error
+Chuck E. Cheese Herndon,"2465 Centreville- Ste. J9, Herndon, VA",,error,error
+Chuck E. Cheese Hampton,"5 Towne Centre Way, Hampton, VA",,error,error
+Chuck E. Cheese Alexandria,"6301 Richmond Hwy., Alexandria, VA",,error,error
+Chuck E. Cheese Dale City,"14085 Shoppers Best Way, Dale City, VA",,error,error
+Chuck E. Cheese Manassas,"7730 Streamwalk Lane, Manassas, VA",,error,error
+Chuck E. Cheese Virginia Beach,"2699 Lishelle Place, Virginia Beach, VA",,error,error
+Chuck E. Cheese Burlington,"621 Cascade Mall Drive, Burlington, WA",,error,error
+Chuck E. Cheese Richmond,"10430 Midlothian Turnpike, Richmond, VA",,error,error
+Chuck E. Cheese Roanoke,"4059 Electric Rd., Roanoke, VA",,error,error
+Chuck E. Cheese Richmond,"9030 Broad St., Richmond, VA",,error,error
+Chuck E. Cheese McAllen,"3300 Expressway 83 Bld. 1000, McAllen, TX",,error,error
+Chuck E. Cheese Lewisville,"2402 S. Stemmons, Lewisville, TX",,error,error
+Chuck E. Cheese McAllen,"1200 Trenton Road, Building 100, McAllen, TX",,error,error
+Chuck E. Cheese Pasadena,"5075 Fairmont Pkwy., Pasadena, TX",,error,error
+Chuck E. Cheese Midland,"4703 W. Loop 250 N., Midland, TX",,error,error
+Chuck E. Cheese Lubbock,"5612 West Loop 289, Lubbock, TX",,error,error
+Chuck E. Cheese Winchester,"145 E. Tevis Street, Winchester, VA",,error,error
+Chuck E. Cheese Bellevue,"2239 148th Avenue NE, Bellevue, WA",,error,error
+Chuck E. Cheese Kent,"25817 104th Avenue SE, Kent, WA",,error,error
+Chuck E. Cheese Olympia,"625 Black Lake Blvd.101, Olympia, WA",,error,error
+Chuck E. Cheese Richland,"2610 Columbia Center Blvd, Richland, WA",,error,error
+Chuck E. Cheese Lynnwood,"3717  196th Street SW  Suite 100, Lynnwood, WA",,error,error
+Chuck E. Cheese Spokane Valley,"14919 East Sprague Avenue, Spokane Valley, WA",,error,error
+Chuck E. Cheese Silverdale,"2771 NW Myhre Road, Silverdale, WA",,error,error
+Chuck E. Cheese Spokane,"10007 N. Nevada Street, Spokane, WA",,error,error
+Chuck E. Cheese Tacoma,"4911 Tacoma Mall Blvd, Tacoma, WA",,error,error
+Chuck E. Cheese Grand Chute,"4671 Michales Dr., Grand Chute, WI",,error,error
+Chuck E. Cheese Vancouver,"7721 NE Vancouver Plaza Dr., Vancouver, WA",,error,error
+Chuck E. Cheese Brookfield,"19125 W. Blue Mound Rd., Brookfield, WI",,error,error
+Chuck E. Cheese LaCrosse,"4444 State Rd 16, LaCrosse, WI",,error,error
+Chuck E. Cheese Madison,"438 Grand Canyon Dr., Madison, WI",,error,error
+Chuck E. Cheese Janesville,"2500 Milton Avenue, Janesville, WI",,error,error
+Chuck E. Cheese Milwaukee,"2701 Chase Ave., Milwaukee, WI",,error,error
+Chuck E. Cheese Racine,"5612 Durand Ave., Racine, WI",,error,error
+Chuck E. Cheese West Allis,"2990 South 108th Ave., West Allis, WI",,error,error
+Chuck E. Cheese Charleston,"2846 Mountaineer Blvd., Charleston, WV",,error,error
+Chuck E. Cheese Harlingen,"2815 W. Expressway 83, Harlingen, TX",,error,error
+Chuck E. Cheese Houston,"6787 Hwy 6 North, Houston, TX",,error,error
+Chuck E. Cheese Irving,"3903 W. Airport Frwy., Irving, TX",,error,error
+Chuck E. Cheese El Paso,"1910 N. Zaragoza, El Paso, TX",,error,error
+Chuck E. Cheese Grand Prairie,"2760 W. I-20, Grand Prairie, TX",,error,error
+Chuck E. Cheese El Paso,"710 Sunland Park, El Paso, TX",,error,error
+Chuck E. Cheese Houston,"5535 Weslayan Ave, Houston, TX",,error,error
+Chuck E. Cheese Humble,"124 E. FM1960 Bypass, Humble, TX",,error,error
+Chuck E. Cheese Laredo,"5300 San Dario Ave. Suite 2205, Laredo, TX",,error,error
+Chuck E. Cheese Houston,"2220 FM 1960, Houston, TX",,error,error
+Chuck E. Cheese Houston,"4432 North Freeway, Houston, TX",,error,error
+Chuck E. Cheese Longview,"312 Northwest Loop 281, Longview, TX",,error,error
+Chuck E. Cheese Ocala,"3500 SW College Road- Unit 200, Ocala, FL",,29.1536246,-82.18078779999999
+Chuck E. Cheese Granada Hills,"16269 San Fernando Mission Rd., Granada Hills, CA",,34.2729193,-118.4863315
+Chuck E. Cheese Cerritos,"11231 183rd Street, Cerritos, CA",,33.8668979,-118.0939592
+Chuck E. Cheese Rogers,"2006 Promenade Blvd., Rogers, AR",,36.3109364,-94.1799755
+Chuck E. Cheese Columbus,"4284 Macsway, Columbus, OH",,39.92432300000001,-82.8821478
+Chuck E. Cheese Cincinnati,"8801 Colerain, Cincinnati, OH",,39.2312574,-84.5911959
+Chuck E. Cheese El Monte,"4567 Peck Road, El Monte, CA",,34.087622,-118.0166958
+Chuck E. Cheese Gilroy,"910 Renz Lane, Gilroy, CA",,37.0062992,-121.5513168
+Chuck E. Cheese Columbus,"3631 Soldano Blvd., Columbus, OH",,39.954833,-83.097928
+Chuck E. Cheese Citrus Heights,"6251 Sunrise Blvd., Citrus Heights, CA",,38.6806606,-121.2739083
+Chuck E. Cheese Ft. Smith,"1200 Waldron #148, Ft. Smith, AR",,32.3202628,-94.5093425
+Chuck E. Cheese Canton,"6370 Strip Ave.   NW, Canton, OH",,40.8736576,-81.4326627
+Chuck E. Cheese Boardman,"521 Boardman Poland Rd., Boardman, OH",,41.0234079,-80.64761779999999
+Chuck E. Cheese Boynton Beach,"244 N. Congress Avenue, Boynton Beach, FL",,26.5261819,-80.0890229
+Chuck E. Cheese Franklin,"3073 Mallory Lane, Franklin, TN",,35.9428337,-86.8216927
+Chuck E. Cheese Chandler,"2977 West Frye Road, Chandler, AZ",,33.2978935,-111.8929097
+Chuck E. Cheese Hialeah,"3805 W 20th Avenue Bay, Hialeah, FL",,25.856297,-80.32114800000001
+Chuck E. Cheese Cincinnati,"4394 Eastgate Square Dr. 900, Cincinnati, OH",,39.0928104,-84.26905099999999
+Chuck E. Cheese Concord,"1611 Willow Pass Road, Concord, CA",,37.9717616,-122.0449458
+Chuck E. Cheese Florence,"2701 David McLeod Blvd., Florence, SC",,34.1915365,-79.8328913
+Chuck E. Cheese Worcester,"50 Southwest Cutoff, Worcester, MA",,42.2393086,-71.7468884
+Chuck E. Cheese Bell,"5089 E. Florence Ave., Bell, CA",,33.9700807,-118.1762998
+Chuck E. Cheese Anchorage,"308 E. Northern Lights Blvd., Anchorage, AK",,61.19473970000001,-149.8781403
+Chuck E. Cheese Lima,"2809 Elida Road, Lima, OH",,40.7660104,-84.1569097
+Chuck E. Cheese Spartanburg,"660 Spartan Blvd.  #250, Spartanburg, SC",,34.9436988,-81.99587869999999
+Chuck E. Cheese West Islip,"155 Sunrise Hwy., West Islip, NY",,40.7206379,-73.30690249999999
+Chuck E. Cheese Parma,"7601 W. Ridgewood RD., Parma, OH",,41.383233,-81.736952
+Chuck E. Cheese El Paso,"9801 Gateway Blvd West, El Paso, TX",,31.7614986,-106.3565347
+Chuck E. Cheese Mansfield,"601 Richland Mall, Mansfield, OH",,40.7697411,-82.59281419999999
+Chuck E. Cheese St. Cloud,"3318 W. Division St., St. Cloud, MN",,45.5530692,-94.1988581
+Chuck E. Cheese Berwyn,"270 W. Swedesford Rd., Berwyn, PA",,40.0692232,-75.4435494
+Chuck E. Cheese Charleston,"1610 Sam Rittenburg Blvd. #103, Charleston, SC",,32.808241,-80.01059560000002
+Chuck E. Cheese Villa Park,"200 W. Roosevelt, Villa Park, IL",,41.8619978,-87.98339949999999
+Chuck E. Cheese Olathe,"15225 W. 134th Street, Olathe, KS",,38.8843774,-94.76228239999999
+Chuck E. Cheese Houma,"1755 Martin Luther King Blvd., Houma, LA",,29.6135717,-90.7582005
+Chuck E. Cheese Diamond Bar,"1900 S. Brea Canyon Rd., Diamond Bar, CA",,33.9867723,-117.8439768
+Chuck E. Cheese Tallahassee,"2810 Sharer Road Ste. 13, Tallahassee, FL",,30.4798422,-84.296999
+Chuck E. Cheese Springfield,"2345 Valley Loop Rd., Springfield, OH",,39.9485223,-83.84850279999999
+Chuck E. Cheese Alexandria,"1725 Metro Dr., Alexandria, LA",,31.276382,-92.4717354
+Chuck E. Cheese Birmingham,"500 Old Town Rd., Birmingham, AL",,33.419657,-86.7981409
+Chuck E. Cheese Oklahoma City,"7601 S. Walker, Oklahoma City, OK",,35.389994,-97.52306700000001
+Chuck E. Cheese Akron,"2779 West Market Street, Akron, OH",,41.126129,-81.604025
+Chuck E. Cheese Lawton,"1726 NW 82nd St Bldg A, Lawton, OK",,34.6272491,-98.4933061
+Chuck E. Cheese Costa Mesa,"2300 Harbor Blvd.- Bldg. 25, Costa Mesa, CA",,33.6570613,-117.9168556
+Chuck E. Cheese Hempstead,"162 Fulton Avenue, Hempstead, NY",,40.70708399999999,-73.629161
+Chuck E. Cheese Columbus,"1455 N. National Road, Columbus, IN",,39.214668,-85.88062699999999
+Chuck E. Cheese Boca Raton,"21699-A State Road 7, Boca Raton, FL",,error,error
+Chuck E. Cheese Jacksonville,"10320 Shops Lane 32258, Jacksonville, FL",,error,error
+Chuck E. Cheese Allen,"204 N Central Expressway- Ste 33, Allen, TX",,33.1022544,-96.6772513
+Chuck E. Cheese Clearwater,"25921 US Hwy 19, Clearwater, FL",,error,error
+Chuck E. Cheese Bradenton,"905 44th Ave. West, Bradenton, FL",,error,error
+Chuck E. Cheese Newington,"3075 Berlin Turnpike, Newington, CT",,error,error
+Chuck E. Cheese Mayfield Heights,"1615 Golden Gate Plaza, Mayfield Heights, OH",,41.5195734,-81.4502428
+Chuck E. Cheese Vestal,"3901 Vestal Parkway E., Vestal, NY",,42.0964991,-75.9790703
+Chuck E. Cheese Valencia,"25955 North The Old Rd., Valencia, CA",,error,error
+Chuck E. Cheese Manchester,"82 Buckland St., Manchester, CT",,error,error
+Chuck E. Cheese Altamonte Springs,"541 W. Hwy 436, Altamonte Springs, FL",,error,error
+Chuck E. Cheese North Olmsted,"26104 Great Northern Shopping Ctr., North Olmsted, OH",,41.4182803,-81.9120543
+Chuck E. Cheese Corona,"191 N. McKinley, Corona, CA",,33.8861882,-117.5156377
+Chuck E. Cheese Brandon,"1540 W. Brandon Blvd., Brandon, FL",,error,error
+Chuck E. Cheese Superior,"305 Marshall Road, Superior, CO",,error,error
+Chuck E. Cheese Victoria,"7800 Navarro, Victoria, TX",,error,error
+Chuck E. Cheese Saginaw,"5105 Bay Rd., Saginaw, MI",,43.4815956,-83.976472
+Chuck E. Cheese Sharonville,"1429 E. Kemper Rd., Sharonville, OH",,39.2851884,-84.4480341
+Chuck E. Cheese Green Bay,"1273 Lombardi Access, Green Bay, WI",,44.506487,-88.07413199999999
+Chuck E. Cheese San Diego,"3414 College Ave., San Diego, CA",,32.7403928,-117.0544385
+Chuck E. Cheese Chesapeake,"1528 Sams Circle, Chesapeake, VA",,36.7713306,-76.2520306
+Chuck E. Cheese Lakewood,"5151 Lakewood Blvd., Lakewood, CA",,33.8518464,-118.1434917
+Chuck E. Cheese Chesapeake (Square),"4400 Peek Trail, Chesapeake (Square), VA",,36.8205385,-76.42440479999999
+Chuck E. Cheese Lansing,"5451 L. West Saginaw Hwy., Lansing, MI",,error,error
+Chuck E. Cheese Lafayette,"100 S. Creasy Lane #100, Lafayette, IN",,error,error
+Chuck E. Cheese Wichita,"3223 N. Rock Rd., Wichita, KS",,error,error
+Chuck E. Cheese Frederick,"7210 Guilford Drive, Frederick, MD",,error,error
+Chuck E. Cheese Danvers,"139 Endicott, Danvers, MA",,error,error
+Chuck E. Cheese Indianapolis,"10021 E. Washington Street, Indianapolis, IN",,error,error
+Chuck E. Cheese Evansville,"559 N. Green River Rd., Evansville, IN",,error,error
+Chuck E. Cheese New Orleans,"3701 General DeGaulle, New Orleans, LA",,error,error
+Chuck E. Cheese Kokomo,"1919 South Reed Road, Kokomo, IN",,error,error
+Chuck E. Cheese Takoma Park,"1127 University Blvd East, Takoma Park, MD",,error,error
+Chuck E. Cheese Metairie,"7000 Veterans Blvd., Metairie, LA",,error,error
+Chuck E. Cheese Ft. Wayne,"711 Coliseum Blvd. W, Ft. Wayne, IN",,error,error
+Chuck E. Cheese Lake Charles,"3221 E Prien Lake Rd., Lake Charles, LA",,error,error
+Chuck E. Cheese Largo,"1100 Shoppers Way, Largo, MD",,error,error
+Chuck E. Cheese Annapolis,"2333-A Forest Dr., Annapolis, MD",,error,error
+Chuck E. Cheese North Dartmouth,"412-418 St. Rd. 6, North Dartmouth, MA",,error,error
+Chuck E. Cheese Concord,"7970 Lyles Lane NW, Concord, NC",,error,error
+Chuck E. Cheese Mishawaka,"822 W. McKinley, Mishawaka, IN",,error,error
+Chuck E. Cheese Lafayette,"3555 Ambassador Caffery Pkwy., Lafayette, LA",,error,error
+Chuck E. Cheese Gulfport,"15082 Crossroads Parkway, Gulfport, MS",,error,error
+Chuck E. Cheese Woodbury,"445 Commerce Drive, Woodbury, MN",,error,error
+Chuck E. Cheese Portage,"6175 S Westnedge, Portage, MI",,error,error
+Chuck E. Cheese Fort Myers,"5020 Cleveland Ave., Fort Myers, FL",,error,error
+Chuck E. Cheese Dearborn,"24399 Michigan, Dearborn, MI",,error,error
+Chuck E. Cheese Parkville,"8886 Waltham Woods Rd, Parkville, MD",,error,error
+Chuck E. Cheese Laurel,"936 Fairlawn Ave., Laurel, MD",,error,error
+Chuck E. Cheese Glen Burnie,"6637 Governor Ritchie Hwy., Glen Burnie, MD",,error,error
+Chuck E. Cheese Bowling Green,"2625 Scottsville Road, Bowling Green, KY",,error,error
+Chuck E. Cheese Grand Rapids,"3671 28th St. SE, Grand Rapids, MI",,error,error
+Chuck E. Cheese Everett,"29 Mystic View Rd., Everett, MA",,error,error
+Chuck E. Cheese Pensacola,"7350 Plantation Rd., Pensacola, FL",,error,error
+Chuck E. Cheese Flint,"3489 Miller Rd., Flint, MI",,error,error
+Chuck E. Cheese Salisbury,"2300 N. Salisbury Blvd., Salisbury, MD",,error,error
+Chuck E. Cheese Las Vegas,"9230 S. Eastern Ave. Space 100, Las Vegas, NV",,error,error
+Chuck E. Cheese Edina,"7505 France Ave. South, Edina, MN",,error,error
+Chuck E. Cheese Davenport,"903 E. Kimberly Rd., Davenport, IA",,error,error
+Chuck E. Cheese Bel Air,"5 Bel Air South Parkway- Ste. N-1447, Bel Air, MD",,error,error
+Chuck E. Cheese Boise,"6255 Fairview Ave., Boise, ID",,error,error
+Chuck E. Cheese Chicago,"1830 W. Fullerton Ave., Chicago, IL",,error,error
+Chuck E. Cheese Gaithersburg,"516 N. Frederick, Gaithersburg, MD",,error,error
+Chuck E. Cheese Slidell,"124 North Shore Blvd., Slidell, LA",,error,error
+Chuck E. Cheese Rochester Hills,"201 East Auburn, Rochester Hills, MI",,error,error
+Chuck E. Cheese Fairview Heights,"10850 Lincoln Trail, Fairview Heights, IL",,error,error
+Chuck E. Cheese Streamwood,"1000C S. Barrington Rd., Streamwood, IL",,error,error
+Chuck E. Cheese Clarksville,"1100 E. State Hwy. 131, Clarksville, IN",,error,error
+Chuck E. Cheese Bloomington,"1701 Empire, Bloomington, IL",,error,error
+Chuck E. Cheese Tinley Park,"16090 S. Harlem Ave., Tinley Park, IL",,error,error
+Chuck E. Cheese Vernon Hills,"700 N. Milwaukee Avenue, Vernon Hills, IL",,error,error
+Chuck E. Cheese Covington,"69252 Hwy. 21, Covington, LA",,error,error
+Chuck E. Cheese Langley,"6339 200th Street, Langley, BC",,error,error
+Chuck E. Cheese Peoria,"2601 W. Lake, Peoria, IL",,error,error
+Chuck E. Cheese Calgary,"2612 32ND Street NE, Calgary, AB",,error,error
+Chuck E. Cheese Rohnert Park,"601 Rohnert Pk Exprwy, Rohnert Park, CA",,38.3473026,-122.7246648
+Chuck E. Cheese Harlem,"280 St. Nicholas Avenue- 2nd Floor, Harlem, NY",,error,error
+Chuck E. Cheese Hattiesburg,"1000 Turtlecreek Drive, Hattiesburg, MS",,error,error
+Chuck E. Cheese Independence,"18701 E. 39th Street, Independence, MO",,error,error
+Chuck E. Cheese Natick,"801 Worcester, Natick, MA",,error,error
+Chuck E. Cheese Waterbury,"650 Wolcott, Waterbury, CT",,error,error
+Chuck E. Cheese Rockwall,"855 East Interstate 30, Rockwall, TX",,error,error
+Chuck E. Cheese Mississauga - West,"2945 Argentia Road, Mississauga - West, ON",,error,error
+Chuck E. Cheese Greensburg,"5256 Route 30 Space #273, Greensburg, PA",,30.355772,-86.096935
+Chuck E. Cheese Baton Rouge,"7680 Andrea Drive, Baton Rouge, LA",,error,error
+Chuck E. Cheese Springfield,"2369 McArthur Ave, Springfield, IL",,error,error
+Chuck E. Cheese Dublin,"2711 Martin Rd, Dublin, OH",,40.0938862,-83.0886037
+Chuck E. Cheese Syracuse,"3023 Erie Boulevard, Syracuse, NY",,43.0562929,-76.08569539999999
+Chuck E. Cheese Macon,"3374 Mercer University, Macon, GA",,error,error
+Chuck E. Cheese Lowell,"199 Plain St. Unit 5, Lowell, MA",,error,error
+Chuck E. Cheese Paducah,"5141 Hinkleville Road, Paducah, KY",,error,error
+Chuck E. Cheese West Des Moines,"1431 22nd St., West Des Moines, IA",,error,error
+Chuck E. Cheese Kennesaw,"824 Earnest W. Barrett Pkwy., Kennesaw, GA",,error,error
+Chuck E. Cheese Topeka,"2215 SW Wanamaker Rd., Topeka, KS",,error,error
+Chuck E. Cheese Sioux City,"4400 Sergeant Road, Sioux City, IA",,error,error
+Chuck E. Cheese Batavia,"511 N. Randall Rd., Batavia, IL",,error,error
+Chuck E. Cheese Plano,"1604 Preston Rd., Plano, TX",,33.022496,-96.79432779999999
+Chuck E. Cheese Lexington,"1555 New Circle Rd., Lexington, KY",,error,error
+Chuck E. Cheese Darien,"7409 Cass Ave., Darien, IL",,error,error
+Chuck E. Cheese Springfield,"3500A S. Glenstone Ave., Springfield, MO",,error,error
+Chuck E. Cheese Orange,"82 Boston Post Rd., Orange, CT",,41.27775219999999,-72.9870516
+Chuck E. Cheese Amherst,"4994 Harlem Rd., Amherst, NY",,error,error
+Chuck E. Cheese Indianapolis,"5501 E. 82nd St., Indianapolis, IN",,error,error
+Chuck E. Cheese Joliet,"3250 Chicagoland Circle, Joliet, IL",,error,error
+Chuck E. Cheese Jackson,"6352 Ridgewood Court Rd., Jackson, MS",,error,error
+Chuck E. Cheese Albuquerque,"4418 Wyoming Blvd. NE, Albuquerque, NM",,error,error
+Chuck E. Cheese Merrillville,"2961 E. 80th Ave, Merrillville, IN",,error,error
+Chuck E. Cheese Charlotte,"7701 Pineville-Matthews Rd., Charlotte, NC",,error,error
+Chuck E. Cheese Las Cruces,"700 S. Telshor, Las Cruces, NM",,error,error
+Chuck E. Cheese Norcross,"5019 Jimmy Carter Blvd., Norcross, GA",,error,error
+Chuck E. Cheese Staten Island,"1775-P South Ave., Staten Island, NY",,error,error
+Chuck E. Cheese Avon,"9931 E. US Highway 36, Avon, IN",,error,error
+Chuck E. Cheese Joplin,"101 N. Range Line Road, Joplin, MO",,error,error
+Chuck E. Cheese Savannah,"6700 Abercorn, Savannah, GA",,error,error
+Chuck E. Cheese Skokie,"7142 Carpenter, Skokie, IL",,error,error
+Chuck E. Cheese Tupelo,"4383 Mall Drive, Tupelo, MS",,error,error
+Chuck E. Cheese Matteson,"106 Towncenter, Matteson, IL",,error,error
+Chuck E. Cheese N. Richland Hills,"7935 Grapevine Hwy., N. Richland Hills, TX",,32.837131,-97.2110415
+Chuck E. Cheese Las Vegas,"4175 S. Grand Canyon, Las Vegas, NV",,36.1134861,-115.307372
+Chuck E. Cheese Buffalo,"4408 Milestrip Rd., Buffalo, NY",,42.79058939999999,-78.81359789999999
+Chuck E. Cheese Louisville,"2030 S. Hurstbourne Pkwy, Louisville, KY",,38.2178656,-85.5887546
+Chuck E. Cheese Tamuning,"235 Pas Street, Tamuning, GUAM",,13.490213,144.780742
+Chuck E. Cheese Ann Arbor,"2655 Oak Valley Dr., Ann Arbor, MI",,error,error
+Chuck E. Cheese Methuen,"90 Pleasant Valley Rd., Methuen, MA",,42.743522,-71.1589201
+Chuck E. Cheese Caguas,"Pueblo Supermarket  Plaza Centro Ave. Rafael J. Cordero  Carr. 30, Caguas, PR",,error,error
+Chuck E. Cheese York,"2801 E. Market St., York, PA",,error,error
+Chuck E. Cheese Levittown,"1283 E. Lincoln Hwy., Levittown, PA",,error,error
+Chuck E. Cheese Wyomissing,"2721 N. Meridian Blvd., Wyomissing, PA",,error,error
+Chuck E. Cheese North Wales,"1210 Bethlehem Pike, North Wales, PA",,error,error
+Chuck E. Cheese Bayamon,"Rexville Town Centre Road 167  KM 17.6  Unit H-12, Bayamon, PR",,error,error
+Chuck E. Cheese Newington,"30 Fox Run Rd., Newington, NH",,error,error
+Chuck E. Cheese Baltimore,"8354 Eastern Ave., Baltimore, MD",,39.3004069,-76.49635359999999
+Chuck E. Cheese Goldsboro,"209 N. Berkeley Blvd., Goldsboro, NC",,error,error
+Chuck E. Cheese Winston Salem,"620 Hanes Mall Blvd., Winston Salem, NC",,error,error
+Chuck E. Cheese Manchester,"1525 S. Willow, Manchester, NH",,error,error
+Chuck E. Cheese San Antonio,"1403 N. Loop 1604 E., San Antonio, TX",,error,error
+Chuck E. Cheese Johnstown,"592 Galleria Drive, Johnstown, PA",,error,error
+Chuck E. Cheese Princeton,"520 Nassau Park Blvd., Princeton, NJ",,error,error
+Chuck E. Cheese Baton Rouge,"11324 Boardwalk, Baton Rouge, LA",,30.4311127,-91.05790189999999
+Chuck E. Cheese Union,"1660 Route 22 East, Union, NJ",,error,error
+Chuck E. Cheese Arlington Heights,"41 W. Rand Rd., Arlington Heights, IL",,42.1131229,-87.98395599999999
+Chuck E. Cheese Southgate,"15300 Toledo Rd., Southgate, MI",,42.197109,-83.214204
+Chuck E. Cheese Regina,"685 University Park Dr., Regina, SK",,50.4465527,-104.5472969
+Chuck E. Cheese Windsor,"4450 Walker Road- Unit A, Windsor, ON",,42.25496649999999,-82.963104
+Chuck E. Cheese Edmonton,"9863 19th Avenue NW, Edmonton, AB",,53.447382,-113.484044
+Chuck E. Cheese Monroe,"3731 Pecanland Mall Drive, Monroe, LA",,32.498848,-92.072942
+Chuck E. Cheese Fort Worth ,"9121 North Freeway, Fort Worth , TX",,32.9039014,-97.31849489999999
+Chuck E. Cheese Albuquerque,"10510 Coors Boulevard, Albuquerque, NM",,35.2083103,-106.6569932
+Chuck E. Cheese Garland,"1340 W. Centerville, Garland, TX",,32.8550943,-96.6456795
+Chuck E. Cheese Fort Worth,"4860 SW Loop 820, Fort Worth, TX",,32.6855109,-97.4003809
+Chuck E. Cheese Baltimore,"5912 Baltimore National Pike, Baltimore, MD",,error,error
+Chuck E. Cheese Dallas,"7110 S. Westmoreland, Dallas, TX",,32.6607259,-96.88147049999999
+Chuck E. Cheese St. Charles,"2669 Veterans Memorial Parkway, St. Charles, MO",,error,error
+Chuck E. Cheese Dallas,"13364 Montfort, Dallas, TX",,32.9310307,-96.810734
+Chuck E. Cheese Silver Spring,"Location Closed -13807 Outlet Drive, Silver Spring, MD",,error,error
+Chuck E. Cheese Muskegon,"5600 Harvey Street, Muskegon, MI",,error,error
+Chuck E. Cheese Denton,"341 South I-35E, Denton, TX",,33.195913,-97.13025909999999
+Chuck E. Cheese Reno,"5000 Smithridge Dr., Reno, NV",,39.4781073,-119.7879278
+Chuck E. Cheese Hicksville,"Delco Plaza 11-15 Hanover Place, Hicksville, NY",,error,error
+Chuck E. Cheese Henderson,"1521 W. Sunset Rd., Henderson, NV",,36.0626067,-115.0510575
+Chuck E. Cheese Whitby,"75 Consumers Drive- Bldg. J, Whitby, ON",,43.8678423,-78.91472399999999
+Chuck E. Cheese Deptford,"1500 Almonesson Rd., Deptford, NJ",,39.8252333,-75.1021327
+Chuck E. Cheese Pearl City,"850 Kam Highway- STE 140, Pearl City, HI",,error,error
+Chuck E. Cheese Ellisville,"15913 Manchester Rd., Ellisville, MO",,38.5940899,-90.5885484
+Chuck E. Cheese North Edmonton,"14245 137th Avenue NW, North Edmonton, AB",,53.5989601,-113.5699576
+Chuck E. Cheese Sterling Heights,"13745 Lakeside Circle, Sterling Heights, MI",,42.6225903,-82.9919012
+Chuck E. Cheese Rocky Mount,"730 Sutters Creek Blvd., Rocky Mount, NC",,35.9727176,-77.810524
+Chuck E. Cheese Lincoln,"221 N. 66th, Lincoln, NE",,error,error
+Chuck E. Cheese Mississauga-Dixie Rd.,"4141 Dixie Rd., Mississauga-Dixie Rd., ON",,43.626418,-79.60559800000001
+Chuck E. Cheese Asheville,"104 River Hills Road, Asheville, NC",,35.5750696,-82.51879509999999
+Chuck E. Cheese Fargo,"1202 Nodak Drive, Fargo, ND",,46.8627471,-96.83174419999999
+Chuck E. Cheese Cedar Falls,"5911 University Ave #100, Cedar Falls, IA",,42.5107533,-92.4287463
+Chuck E. Cheese Chicago,"5030 S. Kedzie, Chicago, IL",,error,error
+Chuck E. Cheese Durham,"3724 Mayfair St., Durham, NC",,35.9688335,-78.952379
+Chuck E. Cheese Charlotte,"5612 Albermarle Rd. #100, Charlotte, NC",,35.2030061,-80.7523168
+Chuck E. Cheese Melrose Park,"1030 Winston Plaza, Melrose Park, IL",,error,error
+Chuck E. Cheese Gurnee,"1512 Nations Drive, Gurnee, IL",,error,error
+Chuck E. Cheese Omaha,"225 N. 76th, Omaha, NE",,41.2616139,-96.03054
+Chuck E. Cheese Greensboro,"702-A Pembroke Road, Greensboro, NC",,error,error
+Chuck E. Cheese Monroeville,"3800 William Penn Highway, Monroeville, PA",,40.4358801,-79.78351130000001
+Chuck E. Cheese Wayne,"1639 Rt. 23 South, Wayne, NJ",,40.9396958,-74.2716666
+Chuck E. Cheese Middletown,"1107 Route 35, Middletown, NJ",,40.3983025,-74.1086196
+Chuck E. Cheese East Hanover,"145 Rt 10, East Hanover, NJ",,40.809556,-74.38233699999999
+Chuck E. Cheese St. Louis,"720 South County Centerway, St. Louis, MO",,38.5038281,-90.3297668
+Chuck E. Cheese Erie,"7200 Peach Street, Erie, PA",,42.0519048,-80.0909039
+Chuck E. Cheese Jacksonville,"2005 N. Marine Blvd., Jacksonville, NC",,34.7782153,-77.3926855
+Chuck E. Cheese Philadelphia,"9175 Roosevelt #2, Philadelphia, PA",,33.6831288,-117.7498768
+Chuck E. Cheese Raleigh,"3501-131 Capitol Blvd., Raleigh, NC",,35.8277069,-78.5863085
+Chuck E. Cheese Stuart,"2400 NW Federal Hwy., Stuart, FL",,27.2347016,-80.2698655
+Chuck E. Cheese Cherry Hill,"2100 Rt. 38, Cherry Hill, NJ",,39.9416067,-75.0192709
+Chuck E. Cheese Lancaster,"2020 Fruitville Pike, Lancaster, PA",,40.0750838,-76.3238827
+Chuck E. Cheese Bridgewater,"600 Promenade Blvd., Bridgewater, NJ",,40.5671895,-74.55726729999999
+Chuck E. Cheese Springfield,"371 Baltimore Pike, Springfield, PA",,39.9212884,-75.3206965
+Chuck E. Cheese Columbia,"2003 W. Worley Road, Columbia, MO",,38.9615075,-92.36956219999999
+Chuck E. Cheese Paramus,"275 Route 4 West, Paramus, NJ",,40.9150281,-74.0469952
+Chuck E. Cheese Honolulu,"1199 Dillingham Blvd, Honolulu, HI",,21.3224719,-157.8745834
+Chuck E. Cheese North Bergen,"8101 Tonelle Ave., North Bergen, NJ",,40.8083192,-74.0177101
+Chuck E. Cheese Jersey City,"701 Route 440 #383, Jersey City, NJ",,40.7204313,-74.0952424
+Chuck E. Cheese Wilkes-Barre Township,"2120 Wilkes-Barre Twnshp Mrkt pl, Wilkes-Barre Township, PA",,41.23894,-75.856482
+Chuck E. Cheese Vaughan,"3255 Rutherford Road, Vaughan, ON",,43.8280362,-79.540781
+Chuck E. Cheese Gastonia,"416 Cox Road, Gastonia, NC",,35.2628348,-81.13283659999999
+Chuck E. Cheese Willowdale,"2452 Sheppard Ave. East-, Willowdale, ON",,43.775488,-79.3257
+Chuck E. Cheese Garland,"4992 State Hwy 190, Garland, TX",,32.9622422,-96.63645199999999
+Chuck E. Cheese Fayetteville,"511 North McPherson Church Rd, Fayetteville, NC",,35.07476490000001,-78.9544116
+Chuck E. Cheese Hickory,"2032 Catawba Valley Blvd., Hickory, NC",,35.7007112,-81.3047819
+Chuck E. Cheese Brick,"56 Chambers Bridge Road, Brick, NJ",,40.0598763,-74.1399771
+Chuck E. Cheese Blaine,"8943 University Ave. NE, Blaine, MN",,45.1333107,-93.26306439999999
+Chuck E. Cheese Philadelphia,"9 Snyder Ave. (Corner of Front & Snyder), Philadelphia, PA",,37.6968714,-121.0241912
+Chuck E. Cheese Carolina,"Monte Real Plaza Carr. #3  KM 15.2  B.O. Canovanillas, Carolina, PR",,34.0112402,-118.1139918
+Chuck E. Cheese Warrington,"1661 Easton Road B-2, Warrington, PA",,40.2681501,-75.1292095
+Chuck E. Cheese Whitehall,"1000 Lehigh Valley Mall, Whitehall, PA",,40.6326005,-75.48046010000002
+Chuck E. Cheese Novi,"44275 Twelve Mile Road- D134, Novi, MI",,error,error
+Chuck E. Cheese Pittsburgh,"20 McIntyre Square Drive, Pittsburgh, PA",,40.551448,-80.01866
+Chuck E. Cheese Mays Landing,"4215 Black Horse Pike, Mays Landing, NJ",,39.4459165,-74.6282624
+Chuck E. Cheese Naperville,"506 South Route 59, Naperville, IL",,error,error
+Chuck E. Cheese Rockford,"3600 E. State St., Rockford, IL",,error,error
+Chuck E. Cheese Crystal Lake,"4725 Northwest Hwy., Crystal Lake, IL",,error,error
+Chuck E. Cheese Edison,"1120 Rte 1 North, Edison, NJ",,40.51976,-74.364351
+Chuck E. Cheese Houston,"600 Gulfgate Mall Center, Houston, TX",,29.6961353,-95.29583509999999
+Chuck E. Cheese Houston,"17780 Tomball Pkwy., Houston, TX",,29.960359,-95.545529
+Chuck E. Cheese Lake Jackson,"100 West Hwy 332 #1098, Lake Jackson, TX",,error,error
+Chuck E. Cheese Katy,"2002 Gulfmont, Katy, TX",,29.7833691,-95.8081618
+Chuck E. Cheese Killeen,"2303 E. Central Texas Expressway, Killeen, TX",,31.0897491,-97.71472729999999
+Chuck E. Cheese Grapevine,"2755 E. Grapevine Mills Circle, Grapevine, TX",,32.9675278,-97.0381243
+Chuck E. Cheese Houston,"12523 Westheimer Rd., Houston, TX",,29.7344351,-95.60355969999999

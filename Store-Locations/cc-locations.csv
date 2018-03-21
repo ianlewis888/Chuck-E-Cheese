@@ -1,551 +1,273 @@
-State,City,Address,URL
-AK - Alaska,Anchorage,308 E. Northern Lights Blvd.,https://www.chuckecheese.com/storedetails/ak/anchorage/589
-AL - Alabama,Birmingham,500 Old Town Rd.,https://www.chuckecheese.com/storedetails/al/birmingham/330
-AL - Alabama,Birmingham,4647 Hwy. 280,https://www.chuckecheese.com/storedetails/al/birmingham/707
-AL - Alabama,Decatur,1801 Beltline Rd. Suite G,https://www.chuckecheese.com/storedetails/al/decatur/701
-AL - Alabama,Dothan,1001 Commons Drive,https://www.chuckecheese.com/storedetails/al/dothan/703
-AL - Alabama,Huntsville,1220 Jordon Lane NW,https://www.chuckecheese.com/storedetails/al/huntsville/705
-AL - Alabama,Mobile,710 Downtowner Loop W,https://www.chuckecheese.com/storedetails/al/mobile/560
-AL - Alabama,Montgomery,1116 Eastdale Mall,https://www.chuckecheese.com/storedetails/al/montgomery/608
-AL - Alabama,Sheffield,4700 Hatch Blvd,https://www.chuckecheese.com/storedetails/al/sheffield/2091
-AL - Alabama,Tuscaloosa,"1800 McFarland Blvd. E., Ste. 508",https://www.chuckecheese.com/storedetails/al/tuscaloosa/803
-AR - Arkansas,Fayetteville,2999 N. College Ave. Ste. 12,https://www.chuckecheese.com/storedetails/ar/fayetteville/312
-AR - Arkansas,Ft. Smith,1200 Waldron #148,https://www.chuckecheese.com/storedetails/ar/ft.-smith/301
-AR - Arkansas,Jonesboro,3400 E. Highland Dr.,https://www.chuckecheese.com/storedetails/ar/jonesboro/668
-AR - Arkansas,Little Rock,2706 S. Shackleford Rd.,https://www.chuckecheese.com/storedetails/ar/little-rock/671
-AR - Arkansas,North Little Rock,4120 Landers Rd.,https://www.chuckecheese.com/storedetails/ar/north-little-rock/304
-AR - Arkansas,Rogers,2006 Promenade Blvd.,https://www.chuckecheese.com/storedetails/ar/rogers/669
-AZ - Arizona,Chandler,2977 West Frye Road,https://www.chuckecheese.com/storedetails/az/chandler/3260
-AZ - Arizona,Glendale,6773 West Bell Road,https://www.chuckecheese.com/storedetails/az/glendale/3219
-AZ - Arizona,Goodyear,13371 West McDowell Road,https://www.chuckecheese.com/storedetails/az/goodyear/3222
-AZ - Arizona,Mesa,7012 E. Hampton Avenue Suite 104,https://www.chuckecheese.com/storedetails/az/mesa/3215
-AZ - Arizona,Phoenix,8039 North 35th Avenue,https://www.chuckecheese.com/storedetails/az/phoenix/621
-AZ - Arizona,Tucson,6125 East Speedway Blvd,https://www.chuckecheese.com/storedetails/az/tucson/3197
-AZ - Arizona,Yuma,1348 S. Yuma Palms Parkway,https://www.chuckecheese.com/storedetails/az/yuma/620
-CA - California,Bakersfield,3760 Ming Ave.,https://www.chuckecheese.com/storedetails/ca/bakersfield/41
-CA - California,Bell,5089 E. Florence Ave.,https://www.chuckecheese.com/storedetails/ca/bell/446
-CA - California,Brentwood,6061 Lone Tree Way,https://www.chuckecheese.com/storedetails/ca/brentwood/783
-CA - California,Burbank,930 N. San Fernando Blvd.,https://www.chuckecheese.com/storedetails/ca/burbank/109
-CA - California,Carson,"20700 Avalon Blvd., Suite 175",https://www.chuckecheese.com/storedetails/ca/carson/462
-CA - California,Cerritos,11231 183rd Street,https://www.chuckecheese.com/storedetails/ca/cerritos/362
-CA - California,Chino,5250 Philadelphia- Ste.K,https://www.chuckecheese.com/storedetails/ca/chino/95
-CA - California,Citrus Heights,6251 Sunrise Blvd.,https://www.chuckecheese.com/storedetails/ca/citrus-heights/329
-CA - California,Concord,1611 Willow Pass Road,https://www.chuckecheese.com/storedetails/ca/concord/379
-CA - California,Corona,191 N. McKinley,https://www.chuckecheese.com/storedetails/ca/corona/407
-CA - California,Costa Mesa,2300 Harbor Blvd.- Bldg. 25,https://www.chuckecheese.com/storedetails/ca/costa-mesa/421
-CA - California,Covina,601 Azusa Ave.,https://www.chuckecheese.com/storedetails/ca/covina/413
-CA - California,Cupertino,19805 Stevens Creek Blvd.,https://www.chuckecheese.com/storedetails/ca/cupertino/786
-CA - California,Diamond Bar,1900 S. Brea Canyon Rd.,https://www.chuckecheese.com/storedetails/ca/diamond-bar/409
-CA - California,Dublin,7448 Amador Valley Blvd.,https://www.chuckecheese.com/storedetails/ca/dublin/322
-CA - California,El Centro,803 E. Danenberg Drive,https://www.chuckecheese.com/storedetails/ca/el-centro/370
-CA - California,El Monte,4567 Peck Road,https://www.chuckecheese.com/storedetails/ca/el-monte/428
-CA - California,Elk Grove,9161 E. Stockton Blvd  Pad B,https://www.chuckecheese.com/storedetails/ca/elk-grove/366
-CA - California,Escondido,1126 W. Valley Pkwy.,https://www.chuckecheese.com/storedetails/ca/escondido/788
-CA - California,Fairfield,1027 Oliver Road,https://www.chuckecheese.com/storedetails/ca/fairfield/3066
-CA - California,Fontana,17069 Valley Blvd.- Ste. D,https://www.chuckecheese.com/storedetails/ca/fontana/445
-CA - California,Foothill Ranch,26562 Towne Centre Drive,https://www.chuckecheese.com/storedetails/ca/foothill-ranch/371
-CA - California,Fresno,3117 W. Shaw- Ste. 107,https://www.chuckecheese.com/storedetails/ca/fresno/42
-CA - California,Fresno,7809 N. Blackstone,https://www.chuckecheese.com/storedetails/ca/fresno/364
-CA - California,Fullerton,1134 S. Harbor Blvd.,https://www.chuckecheese.com/storedetails/ca/fullerton/325
-CA - California,Garden Grove,13101 Harbor Blvd.,https://www.chuckecheese.com/storedetails/ca/garden-grove/422
-CA - California,Gilroy,910 Renz Lane,https://www.chuckecheese.com/storedetails/ca/gilroy/373
-CA - California,Granada Hills,16269 San Fernando Mission Rd.,https://www.chuckecheese.com/storedetails/ca/granada-hills/429
-CA - California,Hayward,24039 Hesperian Blvd.,https://www.chuckecheese.com/storedetails/ca/hayward/363
-CA - California,Hemet,2375 West Florida Avenue,https://www.chuckecheese.com/storedetails/ca/hemet/376
-CA - California,Huntington Beach,15511 Edwards St.,https://www.chuckecheese.com/storedetails/ca/huntington-beach/406
-CA - California,La Mesa,5500 Grossmont Ctr. Dr. Ste. J-34,https://www.chuckecheese.com/storedetails/ca/la-mesa/405
-CA - California,La Mirada,15100 Rosecrans,https://www.chuckecheese.com/storedetails/ca/la-mirada/447
-CA - California,Laguna Hills,26538-H Moulton Parkway,https://www.chuckecheese.com/storedetails/ca/laguna-hills/378
-CA - California,Lakewood,5151 Lakewood Blvd.,https://www.chuckecheese.com/storedetails/ca/lakewood/357
-CA - California,Lancaster,44410 Valley Central Way,https://www.chuckecheese.com/storedetails/ca/lancaster/49
-CA - California,Long Beach,290 E. 4th Street,https://www.chuckecheese.com/storedetails/ca/long-beach/769
-CA - California,Los Angeles,6901 LaTijera Blvd.,https://www.chuckecheese.com/storedetails/ca/los-angeles/367
-CA - California,Los Angeles,2700 Colorado Blvd.,https://www.chuckecheese.com/storedetails/ca/los-angeles/634
-CA - California,Los Angeles,2706 Wilshire Blvd,https://www.chuckecheese.com/storedetails/ca/los-angeles/397
-CA - California,Lynwood,3140 Imperial Highway,https://www.chuckecheese.com/storedetails/ca/lynwood/377
-CA - California,Modesto,3037 Sisk Road,https://www.chuckecheese.com/storedetails/ca/modesto/200
-CA - California,Monrovia,558 W. Huntington Dr.,https://www.chuckecheese.com/storedetails/ca/monrovia/390
-CA - California,Moreno Valley,23160 Sunnymead Blvd.,https://www.chuckecheese.com/storedetails/ca/moreno-valley/393
-CA - California,Murrieta,25110 Hancock Ave Ste 101-106,https://www.chuckecheese.com/storedetails/ca/murrieta/414
-CA - California,National City,1143 Highland Ave.,https://www.chuckecheese.com/storedetails/ca/national-city/439
-CA - California,Newark,39839 Mowry School Rd.,https://www.chuckecheese.com/storedetails/ca/newark/321
-CA - California,Northridge,8425 Reseda Blvd.,https://www.chuckecheese.com/storedetails/ca/northridge/451
-CA - California,Norwalk,10949 Firestone,https://www.chuckecheese.com/storedetails/ca/norwalk/423
-CA - California,Oceanside,2481 Vista Way,https://www.chuckecheese.com/storedetails/ca/oceanside/45
-CA - California,Orange,1875 N. Tustin Street,https://www.chuckecheese.com/storedetails/ca/orange/785
-CA - California,Palm Desert,72513 HWY.111 Suite B,https://www.chuckecheese.com/storedetails/ca/palm-desert/353
-CA - California,Pasadena,3737 E. Foothill,https://www.chuckecheese.com/storedetails/ca/pasadena/324
-CA - California,Pico Rivera,6005 Rosemead Blvd.,https://www.chuckecheese.com/storedetails/ca/pico-rivera/440
-CA - California,Pinole,1470 Fitzgerald Dr,https://www.chuckecheese.com/storedetails/ca/pinole/768
-CA - California,Placentia,2300 N. Rose Dr.,https://www.chuckecheese.com/storedetails/ca/placentia/442
-CA - California,Rancho Cucamonga,9339 Foothill Blvd.- Ste. E,https://www.chuckecheese.com/storedetails/ca/rancho-cucamonga/419
-CA - California,Redding,910 Hilltop Drive,https://www.chuckecheese.com/storedetails/ca/redding/3140
-CA - California,Redwood City,2541-43 El Camino Real,https://www.chuckecheese.com/storedetails/ca/redwood-city/108
-CA - California,Rohnert Park,601 Rohnert Pk Exprwy,https://www.chuckecheese.com/storedetails/ca/rohnert-park/399
-CA - California,Roseville,9601 Fairway Dr.,https://www.chuckecheese.com/storedetails/ca/roseville/633
-CA - California,Sacramento,1690-96 Arden Way,https://www.chuckecheese.com/storedetails/ca/sacramento/410
-CA - California,Salinas,1447 North Davis Rd.,https://www.chuckecheese.com/storedetails/ca/salinas/318
-CA - California,San Bernardino,777 E. Hospitality Lane,https://www.chuckecheese.com/storedetails/ca/san-bernardino/375
-CA - California,San Bernardino,955 South E St. Ste. G,https://www.chuckecheese.com/storedetails/ca/san-bernardino/415
-CA - California,San Bruno,1270-1272 El Camino Real,https://www.chuckecheese.com/storedetails/ca/san-bruno/444
-CA - California,San Diego,3146 Sports Arena Blvd.,https://www.chuckecheese.com/storedetails/ca/san-diego/441
-CA - California,San Diego,9840 Hibert St.,https://www.chuckecheese.com/storedetails/ca/san-diego/443
-CA - California,San Diego,3414 College Ave.,https://www.chuckecheese.com/storedetails/ca/san-diego/765
-CA - California,San Jose,1371 Kooser Rd.,https://www.chuckecheese.com/storedetails/ca/san-jose/404
-CA - California,San Jose,2445 Fontaine Road,https://www.chuckecheese.com/storedetails/ca/san-jose/3001
-CA - California,Santa Maria,2254 S. Bradley Road,https://www.chuckecheese.com/storedetails/ca/santa-maria/761
-CA - California,Stockton,6436 Pacific Avenue,https://www.chuckecheese.com/storedetails/ca/stockton/631
-CA - California,Sun Valley,8375 Laurel Canyon Blvd.,https://www.chuckecheese.com/storedetails/ca/sun-valley/418
-CA - California,Thousand Oaks,130 W. Hillcrest Dr.,https://www.chuckecheese.com/storedetails/ca/thousand-oaks/320
-CA - California,Torrance,2821 Pacific Coast Hwy.,https://www.chuckecheese.com/storedetails/ca/torrance/358
-CA - California,Torrance,16920 Prairie Ave.,https://www.chuckecheese.com/storedetails/ca/torrance/465
-CA - California,Valencia,25955 North The Old Rd.,https://www.chuckecheese.com/storedetails/ca/valencia/355
-CA - California,Ventura,4714 Telephone Rd.,https://www.chuckecheese.com/storedetails/ca/ventura/453
-CA - California,Victorville,12790 Amargosa Rd.,https://www.chuckecheese.com/storedetails/ca/victorville/356
-CA - California,Visalia,4345 W. Noble Avenue,https://www.chuckecheese.com/storedetails/ca/visalia/43
-CA - California,Vista,1861 University Drive,https://www.chuckecheese.com/storedetails/ca/vista/784
-CA - California,Walnut Park,7726 South Alameda Street,https://www.chuckecheese.com/storedetails/ca/walnut-park/787
-CA - California,West Hills,22940 Van Owen St.,https://www.chuckecheese.com/storedetails/ca/west-hills/461
-CO - Colorado,Aurora,14005 E. Exposition Ave.,https://www.chuckecheese.com/storedetails/co/aurora/710
-CO - Colorado,Colorado Springs,5156 N. Academy Blvd.,https://www.chuckecheese.com/storedetails/co/colorado-springs/558
-CO - Colorado,Colorado Springs,2925 Geyser Drive,https://www.chuckecheese.com/storedetails/co/colorado-springs/662
-CO - Colorado,Englewood,1001 W. Hampden Ave.,https://www.chuckecheese.com/storedetails/co/englewood/721
-CO - Colorado,Ft. Collins,105 W. Prospect Rd.,https://www.chuckecheese.com/storedetails/co/ft.-collins/865
-CO - Colorado,Grand Junction,2424 US Hwy. 6 and 50,https://www.chuckecheese.com/storedetails/co/grand-junction/708
-CO - Colorado,Greeley,2309 Greeley Mall,https://www.chuckecheese.com/storedetails/co/greeley/702
-CO - Colorado,Littleton,7510 Parkway Dr.,https://www.chuckecheese.com/storedetails/co/littleton/115
-CO - Colorado,Superior,305 Marshall Road,https://www.chuckecheese.com/storedetails/co/superior/711
-CT - Connecticut,Manchester,82 Buckland St.,https://www.chuckecheese.com/storedetails/ct/manchester/467
-CT - Connecticut,Newington,3075 Berlin Turnpike,https://www.chuckecheese.com/storedetails/ct/newington/470
-CT - Connecticut,Orange,82 Boston Post Rd.,https://www.chuckecheese.com/storedetails/ct/orange/468
-CT - Connecticut,Waterbury,650 Wolcott,https://www.chuckecheese.com/storedetails/ct/waterbury/463
-DE - Delaware,Dover,1275 N. DuPont Hwy.,https://www.chuckecheese.com/storedetails/de/dover/759
-DE - Delaware,Wilmington,3601 Silverside Rd.,https://www.chuckecheese.com/storedetails/de/wilmington/954
-FL - Florida,Altamonte Springs,541 W. Hwy 436,https://www.chuckecheese.com/storedetails/fl/altamonte-springs/681
-FL - Florida,Boca Raton,21699-A State Road 7,https://www.chuckecheese.com/storedetails/fl/boca-raton/682
-FL - Florida,Boynton Beach,244 N. Congress Avenue,https://www.chuckecheese.com/storedetails/fl/boynton-beach/781
-FL - Florida,Bradenton,905 44th Ave. West,https://www.chuckecheese.com/storedetails/fl/bradenton/720
-FL - Florida,Brandon,1540 W. Brandon Blvd.,https://www.chuckecheese.com/storedetails/fl/brandon/420
-FL - Florida,Clearwater,25921 US Hwy 19,https://www.chuckecheese.com/storedetails/fl/clearwater/436
-FL - Florida,Fort Myers,5020 Cleveland Ave.,https://www.chuckecheese.com/storedetails/fl/fort-myers/782
-FL - Florida,Hialeah,3805 W 20th Avenue Bay,https://www.chuckecheese.com/storedetails/fl/hialeah/424
-FL - Florida,Jacksonville,9820 Atlantic Blvd.,https://www.chuckecheese.com/storedetails/fl/jacksonville/62
-FL - Florida,Jacksonville,6065 Youngerman Circle,https://www.chuckecheese.com/storedetails/fl/jacksonville/66
-FL - Florida,Jacksonville,10320 Shops Lane 32258,https://www.chuckecheese.com/storedetails/fl/jacksonville/804
-FL - Florida,Lakeland,3558 US Hwy 98 North,https://www.chuckecheese.com/storedetails/fl/lakeland/426
-FL - Florida,Miami,20335 Biscayne Blvd.- Ste. L-1,https://www.chuckecheese.com/storedetails/fl/miami/435
-FL - Florida,Miami,8701 SW 124th Ave,https://www.chuckecheese.com/storedetails/fl/miami/438
-FL - Florida,Miami,18575 S. Dixie Hwy.,https://www.chuckecheese.com/storedetails/fl/miami/725
-FL - Florida,Naples,1000 Immokalee Rd.,https://www.chuckecheese.com/storedetails/fl/naples/778
-FL - Florida,Ocala,3500 SW College Road- Unit 200,https://www.chuckecheese.com/storedetails/fl/ocala/780
-FL - Florida,Orlando,7419 International Drive,https://www.chuckecheese.com/storedetails/fl/orlando/718
-FL - Florida,Orlando,7456 W. Colonial Dr.,https://www.chuckecheese.com/storedetails/fl/orlando/719
-FL - Florida,Orlando,449 N. Alafaya Trail,https://www.chuckecheese.com/storedetails/fl/orlando/722
-FL - Florida,Pembroke Pines,8515 Pines Blvd.,https://www.chuckecheese.com/storedetails/fl/pembroke-pines/433
-FL - Florida,Pensacola,7350 Plantation Rd.,https://www.chuckecheese.com/storedetails/fl/pensacola/65
-FL - Florida,Pompano Beach,2201 N Federal Highway #201,https://www.chuckecheese.com/storedetails/fl/pompano-beach/789
-FL - Florida,Port Orange,5539 S. Williamson Blvd,https://www.chuckecheese.com/storedetails/fl/port-orange/776
-FL - Florida,St. Petersburg,1024 58th St. North,https://www.chuckecheese.com/storedetails/fl/st.-petersburg/460
-FL - Florida,Stuart,2400 NW Federal Hwy.,https://www.chuckecheese.com/storedetails/fl/stuart/690
-FL - Florida,Sunrise,8099 W Oakland Park Blvd,https://www.chuckecheese.com/storedetails/fl/sunrise/434
-FL - Florida,Tallahassee,2810 Sharer Road Ste. 13,https://www.chuckecheese.com/storedetails/fl/tallahassee/680
-FL - Florida,Tampa,14308 Dale Mabry Hwy,https://www.chuckecheese.com/storedetails/fl/tampa/430
-FL - Florida,W. Palm Beach,2471 Okeechobee Blvd,https://www.chuckecheese.com/storedetails/fl/w.-palm-beach/777
-FL - Florida,Wesley Chapel,6170 Wesley Grove Blvd.,https://www.chuckecheese.com/storedetails/fl/wesley-chapel/779
-FL - Florida,West Melbourne,2250 Coastal Lane,https://www.chuckecheese.com/storedetails/fl/west-melbourne/699
-GA - Georgia,Albany,2601 Dawson Road,https://www.chuckecheese.com/storedetails/ga/albany/617
-GA - Georgia,Alpharetta,925 North Point Drive,https://www.chuckecheese.com/storedetails/ga/alpharetta/600
-GA - Georgia,Athens,3654-I Atlanta Hwy.,https://www.chuckecheese.com/storedetails/ga/athens/612
-GA - Georgia,Atlanta,2990 Cumberland Blvd SE,https://www.chuckecheese.com/storedetails/ga/atlanta/729
-GA - Georgia,Augusta,3435 Wrightsboro Rd.,https://www.chuckecheese.com/storedetails/ga/augusta/939
-GA - Georgia,Buford,1690 Mall of Georgia Blvd,https://www.chuckecheese.com/storedetails/ga/buford/616
-GA - Georgia,Columbus,3201 Macon Rd.,https://www.chuckecheese.com/storedetails/ga/columbus/869
-GA - Georgia,Conyers,1530 Dogwood Drive SE,https://www.chuckecheese.com/storedetails/ga/conyers/602
-GA - Georgia,Douglasville,6890 Douglas Blvd.,https://www.chuckecheese.com/storedetails/ga/douglasville/613
-GA - Georgia,Fayetteville,786 Glynn Street N.,https://www.chuckecheese.com/storedetails/ga/fayetteville/615
-GA - Georgia,Jonesboro,335 Upper Riverdale Rd.,https://www.chuckecheese.com/storedetails/ga/jonesboro/601
-GA - Georgia,Kennesaw,824 Earnest W. Barrett Pkwy.,https://www.chuckecheese.com/storedetails/ga/kennesaw/117
-GA - Georgia,Macon,3374 Mercer University,https://www.chuckecheese.com/storedetails/ga/macon/614
-GA - Georgia,Norcross,5019 Jimmy Carter Blvd.,https://www.chuckecheese.com/storedetails/ga/norcross/611
-GA - Georgia,Savannah,6700 Abercorn,https://www.chuckecheese.com/storedetails/ga/savannah/605
-GUAM - Guam,Tamuning,235 Pas Street,https://www.chuckecheese.com/storedetails/guam/tamuning/3233
-HI - Hawaii,Honolulu,1199 Dillingham Blvd,https://www.chuckecheese.com/storedetails/hi/honolulu/2024
-HI - Hawaii,Pearl City,850 Kam Highway- STE 140,https://www.chuckecheese.com/storedetails/hi/pearl-city/3194
-IA - Iowa,Cedar Falls,5911 University Ave #100,https://www.chuckecheese.com/storedetails/ia/cedar-falls/655
-IA - Iowa,Davenport,903 E. Kimberly Rd.,https://www.chuckecheese.com/storedetails/ia/davenport/957
-IA - Iowa,Sioux City,4400 Sergeant Road,https://www.chuckecheese.com/storedetails/ia/sioux-city/656
-IA - Iowa,West Des Moines,1431 22nd St.,https://www.chuckecheese.com/storedetails/ia/west-des-moines/958
-ID - Idaho,Boise,6255 Fairview Ave.,https://www.chuckecheese.com/storedetails/id/boise/959
-IL - Illinois,Arlington Heights,41 W. Rand Rd.,https://www.chuckecheese.com/storedetails/il/arlington-heights/688
-IL - Illinois,Batavia,511 N. Randall Rd.,https://www.chuckecheese.com/storedetails/il/batavia/349
-IL - Illinois,Bloomington,1701 Empire,https://www.chuckecheese.com/storedetails/il/bloomington/345
-IL - Illinois,Chicago,5030 S. Kedzie,https://www.chuckecheese.com/storedetails/il/chicago/63
-IL - Illinois,Chicago,1830 W. Fullerton Ave.,https://www.chuckecheese.com/storedetails/il/chicago/687
-IL - Illinois,Crystal Lake,4725 Northwest Hwy.,https://www.chuckecheese.com/storedetails/il/crystal-lake/53
-IL - Illinois,Darien,7409 Cass Ave.,https://www.chuckecheese.com/storedetails/il/darien/685
-IL - Illinois,Fairview Heights,10850 Lincoln Trail,https://www.chuckecheese.com/storedetails/il/fairview-heights/916
-IL - Illinois,Gurnee,1512 Nations Drive,https://www.chuckecheese.com/storedetails/il/gurnee/694
-IL - Illinois,Joliet,3250 Chicagoland Circle,https://www.chuckecheese.com/storedetails/il/joliet/678
-IL - Illinois,Matteson,106 Towncenter,https://www.chuckecheese.com/storedetails/il/matteson/73
-IL - Illinois,Melrose Park,1030 Winston Plaza,https://www.chuckecheese.com/storedetails/il/melrose-park/54
-IL - Illinois,Naperville,506 South Route 59,https://www.chuckecheese.com/storedetails/il/naperville/97
-IL - Illinois,Peoria,2601 W. Lake,https://www.chuckecheese.com/storedetails/il/peoria/360
-IL - Illinois,Rockford,3600 E. State St.,https://www.chuckecheese.com/storedetails/il/rockford/960
-IL - Illinois,Skokie,7142 Carpenter,https://www.chuckecheese.com/storedetails/il/skokie/456
-IL - Illinois,Springfield,2369 McArthur Ave,https://www.chuckecheese.com/storedetails/il/springfield/47
-IL - Illinois,Streamwood,1000C S. Barrington Rd.,https://www.chuckecheese.com/storedetails/il/streamwood/59
-IL - Illinois,Tinley Park,16090 S. Harlem Ave.,https://www.chuckecheese.com/storedetails/il/tinley-park/58
-IL - Illinois,Vernon Hills,700 N. Milwaukee Avenue,https://www.chuckecheese.com/storedetails/il/vernon-hills/342
-IL - Illinois,Villa Park,200 W. Roosevelt,https://www.chuckecheese.com/storedetails/il/villa-park/686
-IN - Indiana,Avon,9931 E. US Highway 36,https://www.chuckecheese.com/storedetails/in/avon/674
-IN - Indiana,Clarksville,1100 E. State Hwy. 131,https://www.chuckecheese.com/storedetails/in/clarksville/340
-IN - Indiana,Columbus,1455 N. National Road,https://www.chuckecheese.com/storedetails/in/columbus/670
-IN - Indiana,Evansville,559 N. Green River Rd.,https://www.chuckecheese.com/storedetails/in/evansville/60
-IN - Indiana,Ft. Wayne,711 Coliseum Blvd. W,https://www.chuckecheese.com/storedetails/in/ft.-wayne/946
-IN - Indiana,Indianapolis,5501 E. 82nd St.,https://www.chuckecheese.com/storedetails/in/indianapolis/96
-IN - Indiana,Indianapolis,8804 US 31 South,https://www.chuckecheese.com/storedetails/in/indianapolis/346
-IN - Indiana,Indianapolis,10021 E. Washington Street,https://www.chuckecheese.com/storedetails/in/indianapolis/714
-IN - Indiana,Kokomo,1919 South Reed Road,https://www.chuckecheese.com/storedetails/in/kokomo/341
-IN - Indiana,Lafayette,100 S. Creasy Lane #100,https://www.chuckecheese.com/storedetails/in/lafayette/673
-IN - Indiana,Merrillville,2961 E. 80th Ave,https://www.chuckecheese.com/storedetails/in/merrillville/348
-IN - Indiana,Mishawaka,822 W. McKinley,https://www.chuckecheese.com/storedetails/in/mishawaka/931
-IN - Indiana,Muncie,1611 W. McGalliard Rd.,https://www.chuckecheese.com/storedetails/in/muncie/941
-KS - Kansas,Olathe,15225 W. 134th Street,https://www.chuckecheese.com/storedetails/ks/olathe/665
-KS - Kansas,Overland Park,10510 Metcalf Lane,https://www.chuckecheese.com/storedetails/ks/overland-park/67
-KS - Kansas,Topeka,2215 SW Wanamaker Rd.,https://www.chuckecheese.com/storedetails/ks/topeka/961
-KS - Kansas,Wichita,3223 N. Rock Rd.,https://www.chuckecheese.com/storedetails/ks/wichita/962
-KY - Kentucky,Bowling Green,2625 Scottsville Road,https://www.chuckecheese.com/storedetails/ky/bowling-green/567
-KY - Kentucky,Florence,7635 Mall Road,https://www.chuckecheese.com/storedetails/ky/florence/112
-KY - Kentucky,Lexington,1555 New Circle Rd.,https://www.chuckecheese.com/storedetails/ky/lexington/963
-KY - Kentucky,Louisville,2030 S. Hurstbourne Pkwy,https://www.chuckecheese.com/storedetails/ky/louisville/111
-KY - Kentucky,Paducah,5141 Hinkleville Road,https://www.chuckecheese.com/storedetails/ky/paducah/113
-LA - Louisiana,Alexandria,1725 Metro Dr.,https://www.chuckecheese.com/storedetails/la/alexandria/48
-LA - Louisiana,Baton Rouge,11324 Boardwalk,https://www.chuckecheese.com/storedetails/la/baton-rouge/609
-LA - Louisiana,Baton Rouge,7680 Andrea Drive,https://www.chuckecheese.com/storedetails/la/baton-rouge/767
-LA - Louisiana,Bossier City,2515 Viking Drive,https://www.chuckecheese.com/storedetails/la/bossier-city/3174
-LA - Louisiana,Covington,69252 Hwy. 21,https://www.chuckecheese.com/storedetails/la/covington/610
-LA - Louisiana,Houma,1755 Martin Luther King Blvd.,https://www.chuckecheese.com/storedetails/la/houma/706
-LA - Louisiana,Lafayette,3555 Ambassador Caffery Pkwy.,https://www.chuckecheese.com/storedetails/la/lafayette/715
-LA - Louisiana,Lake Charles,3221 E Prien Lake Rd.,https://www.chuckecheese.com/storedetails/la/lake-charles/709
-LA - Louisiana,Metairie,7000 Veterans Blvd.,https://www.chuckecheese.com/storedetails/la/metairie/716
-LA - Louisiana,Monroe,3731 Pecanland Mall Drive,https://www.chuckecheese.com/storedetails/la/monroe/3235
-LA - Louisiana,New Orleans,3701 General DeGaulle,https://www.chuckecheese.com/storedetails/la/new-orleans/684
-LA - Louisiana,Slidell,124 North Shore Blvd.,https://www.chuckecheese.com/storedetails/la/slidell/693
-MA - Massachusetts,Attleboro,287 Washington St. South,https://www.chuckecheese.com/storedetails/ma/attleboro/464
-MA - Massachusetts,Danvers,139 Endicott,https://www.chuckecheese.com/storedetails/ma/danvers/478
-MA - Massachusetts,Everett,29 Mystic View Rd.,https://www.chuckecheese.com/storedetails/ma/everett/755
-MA - Massachusetts,Leominster,132 Sacks Blvd.,https://www.chuckecheese.com/storedetails/ma/leominster/753
-MA - Massachusetts,Lowell,199 Plain St. Unit 5,https://www.chuckecheese.com/storedetails/ma/lowell/457
-MA - Massachusetts,Methuen,90 Pleasant Valley Rd.,https://www.chuckecheese.com/storedetails/ma/methuen/752
-MA - Massachusetts,Natick,801 Worcester,https://www.chuckecheese.com/storedetails/ma/natick/479
-MA - Massachusetts,North Dartmouth,412-418 St. Rd. 6,https://www.chuckecheese.com/storedetails/ma/north-dartmouth/751
-MA - Massachusetts,Springfield,1716 Boston Rd.,https://www.chuckecheese.com/storedetails/ma/springfield/476
-MA - Massachusetts,Worcester,50 Southwest Cutoff,https://www.chuckecheese.com/storedetails/ma/worcester/459
-MD - Maryland,Annapolis,2333-A Forest Dr.,https://www.chuckecheese.com/storedetails/md/annapolis/50
-MD - Maryland,Baltimore,8354 Eastern Ave.,https://www.chuckecheese.com/storedetails/md/baltimore/403
-MD - Maryland,Baltimore,5912 Baltimore National Pike,https://www.chuckecheese.com/storedetails/md/baltimore/412
-MD - Maryland,Bel Air,5 Bel Air South Parkway- Ste. N-1447,https://www.chuckecheese.com/storedetails/md/bel-air/502
-MD - Maryland,Frederick,7210 Guilford Drive,https://www.chuckecheese.com/storedetails/md/frederick/770
-MD - Maryland,Gaithersburg,516 N. Frederick,https://www.chuckecheese.com/storedetails/md/gaithersburg/401
-MD - Maryland,Glen Burnie,6637 Governor Ritchie Hwy.,https://www.chuckecheese.com/storedetails/md/glen-burnie/474
-MD - Maryland,Hagerstown,17618 Valley Mall Blvd.,https://www.chuckecheese.com/storedetails/md/hagerstown/772
-MD - Maryland,Largo,1100 Shoppers Way,https://www.chuckecheese.com/storedetails/md/largo/532
-MD - Maryland,Laurel,936 Fairlawn Ave.,https://www.chuckecheese.com/storedetails/md/laurel/87
-MD - Maryland,Parkville,8886 Waltham Woods Rd,https://www.chuckecheese.com/storedetails/md/parkville/775
-MD - Maryland,Rockville,5270 Randolph Road,https://www.chuckecheese.com/storedetails/md/rockville/531
-MD - Maryland,Salisbury,2300 N. Salisbury Blvd.,https://www.chuckecheese.com/storedetails/md/salisbury/771
-MD - Maryland,Silver Spring,Location Closed -13807 Outlet Drive,https://www.chuckecheese.com/storedetails/md/silver-spring/402
-MD - Maryland,Takoma Park,1127 University Blvd East,https://www.chuckecheese.com/storedetails/md/takoma-park/774
-MD - Maryland,Waldorf,3241 Plaza Way,https://www.chuckecheese.com/storedetails/md/waldorf/92
-MI - Michigan,Ann Arbor,2655 Oak Valley Dr.,https://www.chuckecheese.com/storedetails/mi/ann-arbor/334
-MI - Michigan,Canton,42001 Ford Rd.,https://www.chuckecheese.com/storedetails/mi/canton/80
-MI - Michigan,Dearborn,24399 Michigan,https://www.chuckecheese.com/storedetails/mi/dearborn/359
-MI - Michigan,Flint,3489 Miller Rd.,https://www.chuckecheese.com/storedetails/mi/flint/323
-MI - Michigan,Grand Rapids,3671 28th St. SE,https://www.chuckecheese.com/storedetails/mi/grand-rapids/335
-MI - Michigan,Lansing,5451 L. West Saginaw Hwy.,https://www.chuckecheese.com/storedetails/mi/lansing/326
-MI - Michigan,Muskegon,5600 Harvey Street,https://www.chuckecheese.com/storedetails/mi/muskegon/829
-MI - Michigan,Novi,44275 Twelve Mile Road- D134,https://www.chuckecheese.com/storedetails/mi/novi/331
-MI - Michigan,Portage,6175 S Westnedge,https://www.chuckecheese.com/storedetails/mi/portage/327
-MI - Michigan,Rochester Hills,201 East Auburn,https://www.chuckecheese.com/storedetails/mi/rochester-hills/85
-MI - Michigan,Roseville,31920 Gratiot,https://www.chuckecheese.com/storedetails/mi/roseville/475
-MI - Michigan,Saginaw,5105 Bay Rd.,https://www.chuckecheese.com/storedetails/mi/saginaw/336
-MI - Michigan,Southgate,15300 Toledo Rd.,https://www.chuckecheese.com/storedetails/mi/southgate/713
-MI - Michigan,Sterling Heights,13745 Lakeside Circle,https://www.chuckecheese.com/storedetails/mi/sterling-heights/103
-MI - Michigan,Troy,740 John R Road,https://www.chuckecheese.com/storedetails/mi/troy/826
-MI - Michigan,Walker,3108 Alpine Ave,https://www.chuckecheese.com/storedetails/mi/walker/828
-MN - Minnesota,Blaine,8943 University Ave. NE,https://www.chuckecheese.com/storedetails/mn/blaine/795
-MN - Minnesota,Burnsville,1025 Burnsville Center,https://www.chuckecheese.com/storedetails/mn/burnsville/793
-MN - Minnesota,Edina,7505 France Ave. South,https://www.chuckecheese.com/storedetails/mn/edina/797
-MN - Minnesota,Maple Grove,12945 Elm Creek Blvd.,https://www.chuckecheese.com/storedetails/mn/maple-grove/794
-MN - Minnesota,Rochester,1250 16th Street SW,https://www.chuckecheese.com/storedetails/mn/rochester/798
-MN - Minnesota,St. Cloud,3318 W. Division St.,https://www.chuckecheese.com/storedetails/mn/st.-cloud/799
-MN - Minnesota,West St. Paul,1422 South Roberts,https://www.chuckecheese.com/storedetails/mn/west-st.-paul/796
-MN - Minnesota,Woodbury,445 Commerce Drive,https://www.chuckecheese.com/storedetails/mn/woodbury/792
-MO - Missouri,Columbia,2003 W. Worley Road,https://www.chuckecheese.com/storedetails/mo/columbia/748
-MO - Missouri,Ellisville,15913 Manchester Rd.,https://www.chuckecheese.com/storedetails/mo/ellisville/947
-MO - Missouri,Independence,18701 E. 39th Street,https://www.chuckecheese.com/storedetails/mo/independence/82
-MO - Missouri,Joplin,101 N. Range Line Road,https://www.chuckecheese.com/storedetails/mo/joplin/749
-MO - Missouri,Kansas City,9196 N. Skyview Avenue,https://www.chuckecheese.com/storedetails/mo/kansas-city/747
-MO - Missouri,Springfield,3500A S. Glenstone Ave.,https://www.chuckecheese.com/storedetails/mo/springfield/742
-MO - Missouri,St. Charles,2669 Veterans Memorial Parkway,https://www.chuckecheese.com/storedetails/mo/st.-charles/948
-MO - Missouri,St. Louis,720 South County Centerway,https://www.chuckecheese.com/storedetails/mo/st.-louis/855
-MS - Mississippi,Gulfport,15082 Crossroads Parkway,https://www.chuckecheese.com/storedetails/ms/gulfport/562
-MS - Mississippi,Hattiesburg,1000 Turtlecreek Drive,https://www.chuckecheese.com/storedetails/ms/hattiesburg/566
-MS - Mississippi,Horn Lake,7178 DeSoto Cove,https://www.chuckecheese.com/storedetails/ms/horn-lake/564
-MS - Mississippi,Jackson,6352 Ridgewood Court Rd.,https://www.chuckecheese.com/storedetails/ms/jackson/3011
-MS - Mississippi,Tupelo,4383 Mall Drive,https://www.chuckecheese.com/storedetails/ms/tupelo/3225
-MT - Montana,Billings,100  24th Street,https://www.chuckecheese.com/storedetails/mt/billings/2082
-NC - North Carolina,Asheville,104 River Hills Road,https://www.chuckecheese.com/storedetails/nc/asheville/638
-NC - North Carolina,Charlotte,5612 Albermarle Rd. #100,https://www.chuckecheese.com/storedetails/nc/charlotte/39
-NC - North Carolina,Charlotte,7701 Pineville-Matthews Rd.,https://www.chuckecheese.com/storedetails/nc/charlotte/64
-NC - North Carolina,Concord,7970 Lyles Lane NW,https://www.chuckecheese.com/storedetails/nc/concord/381
-NC - North Carolina,Durham,3724 Mayfair St.,https://www.chuckecheese.com/storedetails/nc/durham/380
-NC - North Carolina,Fayetteville,511 North McPherson Church Rd,https://www.chuckecheese.com/storedetails/nc/fayetteville/3212
-NC - North Carolina,Gastonia,416 Cox Road,https://www.chuckecheese.com/storedetails/nc/gastonia/635
-NC - North Carolina,Goldsboro,209 N. Berkeley Blvd.,https://www.chuckecheese.com/storedetails/nc/goldsboro/386
-NC - North Carolina,Greensboro,702-A Pembroke Road,https://www.chuckecheese.com/storedetails/nc/greensboro/637
-NC - North Carolina,Hickory,2032 Catawba Valley Blvd.,https://www.chuckecheese.com/storedetails/nc/hickory/382
-NC - North Carolina,Jacksonville,2005 N. Marine Blvd.,https://www.chuckecheese.com/storedetails/nc/jacksonville/374
-NC - North Carolina,Raleigh,3501-131 Capitol Blvd.,https://www.chuckecheese.com/storedetails/nc/raleigh/636
-NC - North Carolina,Rocky Mount,730 Sutters Creek Blvd.,https://www.chuckecheese.com/storedetails/nc/rocky-mount/387
-NC - North Carolina,Wilmington,4389 Oleander Drive,https://www.chuckecheese.com/storedetails/nc/wilmington/2070
-NC - North Carolina,Winston Salem,620 Hanes Mall Blvd.,https://www.chuckecheese.com/storedetails/nc/winston-salem/121
-ND - North Dakota,Fargo,1202 Nodak Drive,https://www.chuckecheese.com/storedetails/nd/fargo/2068
-NE - Nebraska,Lincoln,221 N. 66th,https://www.chuckecheese.com/storedetails/ne/lincoln/568
-NE - Nebraska,Omaha,225 N. 76th,https://www.chuckecheese.com/storedetails/ne/omaha/733
-NH - New Hampshire,Manchester,1525 S. Willow,https://www.chuckecheese.com/storedetails/nh/manchester/472
-NH - New Hampshire,Newington,30 Fox Run Rd.,https://www.chuckecheese.com/storedetails/nh/newington/471
-NJ - New Jersey,Brick,56 Chambers Bridge Road,https://www.chuckecheese.com/storedetails/nj/brick/500
-NJ - New Jersey,Bridgewater,600 Promenade Blvd.,https://www.chuckecheese.com/storedetails/nj/bridgewater/512
-NJ - New Jersey,Cherry Hill,2100 Rt. 38,https://www.chuckecheese.com/storedetails/nj/cherry-hill/498
-NJ - New Jersey,Deptford,1500 Almonesson Rd.,https://www.chuckecheese.com/storedetails/nj/deptford/481
-NJ - New Jersey,East Hanover,145 Rt 10,https://www.chuckecheese.com/storedetails/nj/east-hanover/525
-NJ - New Jersey,Edison,1120 Rte 1 North,https://www.chuckecheese.com/storedetails/nj/edison/487
-NJ - New Jersey,Jersey City,701 Route 440 #383,https://www.chuckecheese.com/storedetails/nj/jersey-city/484
-NJ - New Jersey,Mays Landing,4215 Black Horse Pike,https://www.chuckecheese.com/storedetails/nj/mays-landing/518
-NJ - New Jersey,Middletown,1107 Route 35,https://www.chuckecheese.com/storedetails/nj/middletown/480
-NJ - New Jersey,North Bergen,8101 Tonelle Ave.,https://www.chuckecheese.com/storedetails/nj/north-bergen/485
-NJ - New Jersey,Paramus,275 Route 4 West,https://www.chuckecheese.com/storedetails/nj/paramus/482
-NJ - New Jersey,Princeton,520 Nassau Park Blvd.,https://www.chuckecheese.com/storedetails/nj/princeton/510
-NJ - New Jersey,Union,1660 Route 22 East,https://www.chuckecheese.com/storedetails/nj/union/542
-NJ - New Jersey,Wayne,1639 Rt. 23 South,https://www.chuckecheese.com/storedetails/nj/wayne/489
-NM - New Mexico,Albuquerque,4418 Wyoming Blvd. NE,https://www.chuckecheese.com/storedetails/nm/albuquerque/332
-NM - New Mexico,Albuquerque,10510 Coors Boulevard,https://www.chuckecheese.com/storedetails/nm/albuquerque/339
-NM - New Mexico,Las Cruces,700 S. Telshor,https://www.chuckecheese.com/storedetails/nm/las-cruces/307
-NV - Nevada,Henderson,1521 W. Sunset Rd.,https://www.chuckecheese.com/storedetails/nv/henderson/314
-NV - Nevada,Las Vegas,4175 S. Grand Canyon,https://www.chuckecheese.com/storedetails/nv/las-vegas/308
-NV - Nevada,Las Vegas,9230 S. Eastern Ave. Space 100,https://www.chuckecheese.com/storedetails/nv/las-vegas/311
-NV - Nevada,Las Vegas,350 N. Nellis Blvd. Suite 100,https://www.chuckecheese.com/storedetails/nv/las-vegas/313
-NV - Nevada,Las Vegas,7381 W. Lake Mead,https://www.chuckecheese.com/storedetails/nv/las-vegas/315
-NV - Nevada,Reno,5000 Smithridge Dr.,https://www.chuckecheese.com/storedetails/nv/reno/316
-NY - New York,Amherst,4994 Harlem Rd.,https://www.chuckecheese.com/storedetails/ny/amherst/840
-NY - New York,Bronx,1816 Gunhill Road,https://www.chuckecheese.com/storedetails/ny/bronx/523
-NY - New York,Bronx,700 Exterior Street,https://www.chuckecheese.com/storedetails/ny/bronx/641
-NY - New York,Brooklyn,139 Flatbush Avenue,https://www.chuckecheese.com/storedetails/ny/brooklyn/522
-NY - New York,Buffalo,4408 Milestrip Rd.,https://www.chuckecheese.com/storedetails/ny/buffalo/516
-NY - New York,Flushing,40-24 College Point Blvd. Suite B213,https://www.chuckecheese.com/storedetails/ny/flushing/647
-NY - New York,Harlem,280 St. Nicholas Avenue- 2nd Floor,https://www.chuckecheese.com/storedetails/ny/harlem/648
-NY - New York,Hempstead,162 Fulton Avenue,https://www.chuckecheese.com/storedetails/ny/hempstead/527
-NY - New York,Hicksville,Delco Plaza 11-15 Hanover Place,https://www.chuckecheese.com/storedetails/ny/hicksville/499
-NY - New York,Latham,601 Troy Schenectady Rd.,https://www.chuckecheese.com/storedetails/ny/latham/520
-NY - New York,Long Island City,3419 48th St.,https://www.chuckecheese.com/storedetails/ny/long-island-city/513
-NY - New York,Nanuet,250 West Route 59,https://www.chuckecheese.com/storedetails/ny/nanuet/849
-NY - New York,New Hartford,4631 Commercial Drive,https://www.chuckecheese.com/storedetails/ny/new-hartford/646
-NY - New York,Patchogue,121 Sunrise Hwy.,https://www.chuckecheese.com/storedetails/ny/patchogue/496
-NY - New York,Poughkeepsie,1895 South Rd.,https://www.chuckecheese.com/storedetails/ny/poughkeepsie/505
-NY - New York,Rochester,1000 Hylan Drive,https://www.chuckecheese.com/storedetails/ny/rochester/517
-NY - New York,Rochester,3130 Ridge Road West,https://www.chuckecheese.com/storedetails/ny/rochester/839
-NY - New York,Staten Island,1775-P South Ave.,https://www.chuckecheese.com/storedetails/ny/staten-island/494
-NY - New York,Syracuse,3023 Erie Boulevard,https://www.chuckecheese.com/storedetails/ny/syracuse/526
-NY - New York,Vestal,3901 Vestal Parkway E.,https://www.chuckecheese.com/storedetails/ny/vestal/521
-NY - New York,West Islip,155 Sunrise Hwy.,https://www.chuckecheese.com/storedetails/ny/west-islip/511
-OH - Ohio,Akron,2779 West Market Street,https://www.chuckecheese.com/storedetails/oh/akron/553
-OH - Ohio,Boardman,521 Boardman Poland Rd.,https://www.chuckecheese.com/storedetails/oh/boardman/552
-OH - Ohio,Canton,6370 Strip Ave.   NW,https://www.chuckecheese.com/storedetails/oh/canton/740
-OH - Ohio,Cincinnati,4394 Eastgate Square Dr. 900,https://www.chuckecheese.com/storedetails/oh/cincinnati/102
-OH - Ohio,Cincinnati,8801 Colerain,https://www.chuckecheese.com/storedetails/oh/cincinnati/561
-OH - Ohio,Columbus,3631 Soldano Blvd.,https://www.chuckecheese.com/storedetails/oh/columbus/557
-OH - Ohio,Columbus,4284 Macsway,https://www.chuckecheese.com/storedetails/oh/columbus/737
-OH - Ohio,Dublin,2711 Martin Rd,https://www.chuckecheese.com/storedetails/oh/dublin/736
-OH - Ohio,Lima,2809 Elida Road,https://www.chuckecheese.com/storedetails/oh/lima/3228
-OH - Ohio,Mansfield,601 Richland Mall,https://www.chuckecheese.com/storedetails/oh/mansfield/746
-OH - Ohio,Mayfield Heights,1615 Golden Gate Plaza,https://www.chuckecheese.com/storedetails/oh/mayfield-heights/547
-OH - Ohio,Mentor,8000 Plaza Blvd.- Unit J,https://www.chuckecheese.com/storedetails/oh/mentor/743
-OH - Ohio,Miamisburg,30 Prestige Place,https://www.chuckecheese.com/storedetails/oh/miamisburg/555
-OH - Ohio,North Olmsted,26104 Great Northern Shopping Ctr.,https://www.chuckecheese.com/storedetails/oh/north-olmsted/559
-OH - Ohio,Parma,7601 W. Ridgewood RD.,https://www.chuckecheese.com/storedetails/oh/parma/101
-OH - Ohio,Sharonville,1429 E. Kemper Rd.,https://www.chuckecheese.com/storedetails/oh/sharonville/738
-OH - Ohio,Springfield,2345 Valley Loop Rd.,https://www.chuckecheese.com/storedetails/oh/springfield/938
-OH - Ohio,Toledo,5455 Airport Hwy Ste 9-I,https://www.chuckecheese.com/storedetails/oh/toledo/554
-OH - Ohio,Toledo,5077 Monroe,https://www.chuckecheese.com/storedetails/oh/toledo/556
-OH - Ohio,Warren,2082 Niles Cortland Rd.- SE,https://www.chuckecheese.com/storedetails/oh/warren/745
-OK - Oklahoma,Lawton,1726 NW 82nd St Bldg A,https://www.chuckecheese.com/storedetails/ok/lawton/890
-OK - Oklahoma,Norman,2201 Interstate Drive,https://www.chuckecheese.com/storedetails/ok/norman/893
-OK - Oklahoma,Oklahoma City,7601 S. Walker,https://www.chuckecheese.com/storedetails/ok/oklahoma-city/888
-OK - Oklahoma,Oklahoma City,6817 NW Expressway,https://www.chuckecheese.com/storedetails/ok/oklahoma-city/889
-OK - Oklahoma,Oklahoma City,2241 West Memorial Rd.,https://www.chuckecheese.com/storedetails/ok/oklahoma-city/892
-OK - Oklahoma,Tulsa,7108 S. Memorial Dr.,https://www.chuckecheese.com/storedetails/ok/tulsa/891
-OR - Oregon,Beaverton,4145 SW 110th Avenue,https://www.chuckecheese.com/storedetails/or/beaverton/3169
-OR - Oregon,Portland,9120 SE Powell,https://www.chuckecheese.com/storedetails/or/portland/660
-OR - Oregon,Salem,3240 Lancaster Drive NE,https://www.chuckecheese.com/storedetails/or/salem/3046
-PA - Pennsylvania,Altoona,3415 Pleasant Valley Shopping Center,https://www.chuckecheese.com/storedetails/pa/altoona/449
-PA - Pennsylvania,Berwyn,270 W. Swedesford Rd.,https://www.chuckecheese.com/storedetails/pa/berwyn/543
-PA - Pennsylvania,Bridgeville,1035 Washington Pike,https://www.chuckecheese.com/storedetails/pa/bridgeville/535
-PA - Pennsylvania,Dickson City,1003 Commerce BLvd.,https://www.chuckecheese.com/storedetails/pa/dickson-city/541
-PA - Pennsylvania,Downingtown,911 E. Lancaster Ave,https://www.chuckecheese.com/storedetails/pa/downingtown/538
-PA - Pennsylvania,Erie,7200 Peach Street,https://www.chuckecheese.com/storedetails/pa/erie/536
-PA - Pennsylvania,Greensburg,5256 Route 30 Space #273,https://www.chuckecheese.com/storedetails/pa/greensburg/763
-PA - Pennsylvania,Harrisburg,3883 Union Deposit Rd.,https://www.chuckecheese.com/storedetails/pa/harrisburg/964
-PA - Pennsylvania,Johnstown,592 Galleria Drive,https://www.chuckecheese.com/storedetails/pa/johnstown/534
-PA - Pennsylvania,Lancaster,2020 Fruitville Pike,https://www.chuckecheese.com/storedetails/pa/lancaster/540
-PA - Pennsylvania,Levittown,1283 E. Lincoln Hwy.,https://www.chuckecheese.com/storedetails/pa/levittown/452
-PA - Pennsylvania,Monroeville,3800 William Penn Highway,https://www.chuckecheese.com/storedetails/pa/monroeville/537
-PA - Pennsylvania,North Wales,1210 Bethlehem Pike,https://www.chuckecheese.com/storedetails/pa/north-wales/455
-PA - Pennsylvania,Philadelphia,9175 Roosevelt #2,https://www.chuckecheese.com/storedetails/pa/philadelphia/437
-PA - Pennsylvania,Philadelphia,9 Snyder Ave. (Corner of Front & Snyder),https://www.chuckecheese.com/storedetails/pa/philadelphia/450
-PA - Pennsylvania,Pittsburgh,20 McIntyre Square Drive,https://www.chuckecheese.com/storedetails/pa/pittsburgh/544
-PA - Pennsylvania,Springfield,371 Baltimore Pike,https://www.chuckecheese.com/storedetails/pa/springfield/529
-PA - Pennsylvania,Warrington,1661 Easton Road B-2,https://www.chuckecheese.com/storedetails/pa/warrington/762
-PA - Pennsylvania,Whitehall,1000 Lehigh Valley Mall,https://www.chuckecheese.com/storedetails/pa/whitehall/448
-PA - Pennsylvania,Wilkes-Barre Township,2120 Wilkes-Barre Twnshp Mrkt pl,https://www.chuckecheese.com/storedetails/pa/wilkes-barre-township/533
-PA - Pennsylvania,Wyomissing,2721 N. Meridian Blvd.,https://www.chuckecheese.com/storedetails/pa/wyomissing/539
-PA - Pennsylvania,York,2801 E. Market St.,https://www.chuckecheese.com/storedetails/pa/york/965
-PR - Puerto Rico,Bayamon,Rexville Town Centre Road 167  KM 17.6  Unit H-12,https://www.chuckecheese.com/storedetails/pr/bayamon/3218
-PR - Puerto Rico,Caguas,Pueblo Supermarket  Plaza Centro Ave. Rafael J. Cordero  Carr. 30,https://www.chuckecheese.com/storedetails/pr/caguas/3220
-PR - Puerto Rico,Carolina,Monte Real Plaza Carr. #3  KM 15.2  B.O. Canovanillas,https://www.chuckecheese.com/storedetails/pr/carolina/3223
-RI - Rhode Island,Warwick,650 Bald Hill Rd.,https://www.chuckecheese.com/storedetails/ri/warwick/645
-SC - South Carolina,Charleston,1610 Sam Rittenburg Blvd. #103,https://www.chuckecheese.com/storedetails/sc/charleston/966
-SC - South Carolina,Columbia,1775 Burning Tree,https://www.chuckecheese.com/storedetails/sc/columbia/967
-SC - South Carolina,Florence,2701 David McLeod Blvd.,https://www.chuckecheese.com/storedetails/sc/florence/658
-SC - South Carolina,Greenville,253 Congaree Rd.,https://www.chuckecheese.com/storedetails/sc/greenville/968
-SC - South Carolina,North Charleston,7258 Rivers Avenue,https://www.chuckecheese.com/storedetails/sc/north-charleston/385
-SC - South Carolina,Spartanburg,660 Spartan Blvd.  #250,https://www.chuckecheese.com/storedetails/sc/spartanburg/383
-SC - South Carolina,Sumter,1121 Broad Street,https://www.chuckecheese.com/storedetails/sc/sumter/657
-SD - South Dakota,Rapid City,30 Knollwood Drive,https://www.chuckecheese.com/storedetails/sd/rapid-city/861
-SD - South Dakota,Sioux Falls,2600 Louise,https://www.chuckecheese.com/storedetails/sd/sioux-falls/860
-TN - Tennessee,Antioch,5312 Hickory Hollow Lane,https://www.chuckecheese.com/storedetails/tn/antioch/74
-TN - Tennessee,Chattanooga,22 Northgate Park,https://www.chuckecheese.com/storedetails/tn/chattanooga/969
-TN - Tennessee,Clarksville,2821 B. Wilma Rudolph Blvd.,https://www.chuckecheese.com/storedetails/tn/clarksville/368
-TN - Tennessee,Cordova,1636 N. Germantown Pkwy,https://www.chuckecheese.com/storedetails/tn/cordova/563
-TN - Tennessee,Franklin,3073 Mallory Lane,https://www.chuckecheese.com/storedetails/tn/franklin/365
-TN - Tennessee,Jackson,2021 North Highland Avenue,https://www.chuckecheese.com/storedetails/tn/jackson/667
-TN - Tennessee,Johnson City,3020 Peoples Street,https://www.chuckecheese.com/storedetails/tn/johnson-city/663
-TN - Tennessee,Knoxville,8225 Kingston Pike,https://www.chuckecheese.com/storedetails/tn/knoxville/55
-TN - Tennessee,Madison,2070 Gallatin Rd. North,https://www.chuckecheese.com/storedetails/tn/madison/68
-TN - Tennessee,Memphis,3649 Hickory Hill Rd.,https://www.chuckecheese.com/storedetails/tn/memphis/970
-TN - Tennessee,Mount Juliet,60 Belinda Parkway,https://www.chuckecheese.com/storedetails/tn/mount-juliet/672
-TN - Tennessee,Murfreesboro,1720 Old Fort Parkway,https://www.chuckecheese.com/storedetails/tn/murfreesboro/664
-TX - Texas,Abilene,4310 Buffalo Gap Road,https://www.chuckecheese.com/storedetails/tx/abilene/582
-TX - Texas,Allen,204 N Central Expressway- Ste 33,https://www.chuckecheese.com/storedetails/tx/allen/597
-TX - Texas,Amarillo,2500 S. Coulter St.- Suite 124,https://www.chuckecheese.com/storedetails/tx/amarillo/937
-TX - Texas,Arlington,2216 S. Fielder Rd.,https://www.chuckecheese.com/storedetails/tx/arlington/416
-TX - Texas,Austin,10515 North Mopac Expressway,https://www.chuckecheese.com/storedetails/tx/austin/586
-TX - Texas,Austin,9811 S. I-35,https://www.chuckecheese.com/storedetails/tx/austin/951
-TX - Texas,Austin (Round Rock),401 W. Louis Henna Blvd.,https://www.chuckecheese.com/storedetails/tx/austin-(round-rock)/943
-TX - Texas,Beaumont,4180 N. Dowlen Rd.,https://www.chuckecheese.com/storedetails/tx/beaumont/930
-TX - Texas,Brownsville,2800 N. Expressway,https://www.chuckecheese.com/storedetails/tx/brownsville/853
-TX - Texas,College Station,1500 Harvey Road,https://www.chuckecheese.com/storedetails/tx/college-station/577
-TX - Texas,Conroe,16790 Interstate 45 South,https://www.chuckecheese.com/storedetails/tx/conroe/572
-TX - Texas,Corpus Christi,5118 S. Staples,https://www.chuckecheese.com/storedetails/tx/corpus-christi/454
-TX - Texas,Dallas,13364 Montfort,https://www.chuckecheese.com/storedetails/tx/dallas/580
-TX - Texas,Dallas,7110 S. Westmoreland,https://www.chuckecheese.com/storedetails/tx/dallas/949
-TX - Texas,Denton,341 South I-35E,https://www.chuckecheese.com/storedetails/tx/denton/310
-TX - Texas,El Paso,710 Sunland Park,https://www.chuckecheese.com/storedetails/tx/el-paso/850
-TX - Texas,El Paso,9801 Gateway Blvd West,https://www.chuckecheese.com/storedetails/tx/el-paso/852
-TX - Texas,El Paso,1910 N. Zaragoza,https://www.chuckecheese.com/storedetails/tx/el-paso/866
-TX - Texas,Fort Worth,4860 SW Loop 820,https://www.chuckecheese.com/storedetails/tx/fort-worth/595
-TX - Texas,Fort Worth ,9121 North Freeway,https://www.chuckecheese.com/storedetails/tx/fort-worth-/867
-TX - Texas,Garland,4992 State Hwy 190,https://www.chuckecheese.com/storedetails/tx/garland/584
-TX - Texas,Garland,1340 W. Centerville,https://www.chuckecheese.com/storedetails/tx/garland/942
-TX - Texas,Grand Prairie,2760 W. I-20,https://www.chuckecheese.com/storedetails/tx/grand-prairie/596
-TX - Texas,Grapevine,2755 E. Grapevine Mills Circle,https://www.chuckecheese.com/storedetails/tx/grapevine/854
-TX - Texas,Harlingen,2815 W. Expressway 83,https://www.chuckecheese.com/storedetails/tx/harlingen/864
-TX - Texas,Houston,2220 FM 1960,https://www.chuckecheese.com/storedetails/tx/houston/32
-TX - Texas,Houston,6787 Hwy 6 North,https://www.chuckecheese.com/storedetails/tx/houston/33
-TX - Texas,Houston,5535 Weslayan Ave,https://www.chuckecheese.com/storedetails/tx/houston/575
-TX - Texas,Houston,17780 Tomball Pkwy.,https://www.chuckecheese.com/storedetails/tx/houston/585
-TX - Texas,Houston,600 Gulfgate Mall Center,https://www.chuckecheese.com/storedetails/tx/houston/591
-TX - Texas,Houston,4432 North Freeway,https://www.chuckecheese.com/storedetails/tx/houston/790
-TX - Texas,Houston,12523 Westheimer Rd.,https://www.chuckecheese.com/storedetails/tx/houston/858
-TX - Texas,Humble,124 E. FM1960 Bypass,https://www.chuckecheese.com/storedetails/tx/humble/105
-TX - Texas,Irving,3903 W. Airport Frwy.,https://www.chuckecheese.com/storedetails/tx/irving/81
-TX - Texas,Katy,2002 Gulfmont,https://www.chuckecheese.com/storedetails/tx/katy/598
-TX - Texas,Killeen,2303 E. Central Texas Expressway,https://www.chuckecheese.com/storedetails/tx/killeen/732
-TX - Texas,Lake Jackson,100 West Hwy 332 #1098,https://www.chuckecheese.com/storedetails/tx/lake-jackson/576
-TX - Texas,Laredo,5300 San Dario Ave. Suite 2205,https://www.chuckecheese.com/storedetails/tx/laredo/569
-TX - Texas,Lewisville,2402 S. Stemmons,https://www.chuckecheese.com/storedetails/tx/lewisville/35
-TX - Texas,Longview,312 Northwest Loop 281,https://www.chuckecheese.com/storedetails/tx/longview/599
-TX - Texas,Lubbock,5612 West Loop 289,https://www.chuckecheese.com/storedetails/tx/lubbock/933
-TX - Texas,McAllen,3300 Expressway 83 Bld. 1000,https://www.chuckecheese.com/storedetails/tx/mcallen/588
-TX - Texas,McAllen,"1200 Trenton Road, Building 100",https://www.chuckecheese.com/storedetails/tx/mcallen/863
-TX - Texas,Midland,4703 W. Loop 250 N.,https://www.chuckecheese.com/storedetails/tx/midland/928
-TX - Texas,N. Richland Hills,7935 Grapevine Hwy.,https://www.chuckecheese.com/storedetails/tx/n.-richland-hills/579
-TX - Texas,Pasadena,5075 Fairmont Pkwy.,https://www.chuckecheese.com/storedetails/tx/pasadena/587
-TX - Texas,Pearland,3141 Silverlake Village Drive,https://www.chuckecheese.com/storedetails/tx/pearland/578
-TX - Texas,Plano,1604 Preston Rd.,https://www.chuckecheese.com/storedetails/tx/plano/950
-TX - Texas,Rockwall,855 East Interstate 30,https://www.chuckecheese.com/storedetails/tx/rockwall/38
-TX - Texas,San Antonio,6874 Ingram Rd. ,https://www.chuckecheese.com/storedetails/tx/san-antonio/98
-TX - Texas,San Antonio,238  SW Military Dr.,https://www.chuckecheese.com/storedetails/tx/san-antonio/417
-TX - Texas,San Antonio,1403 N. Loop 1604 E.,https://www.chuckecheese.com/storedetails/tx/san-antonio/565
-TX - Texas,San Antonio,11735 Bandera Road,https://www.chuckecheese.com/storedetails/tx/san-antonio/593
-TX - Texas,Selma,14565 IH 35 North,https://www.chuckecheese.com/storedetails/tx/selma/583
-TX - Texas,Sherman,3808 US 75 North,https://www.chuckecheese.com/storedetails/tx/sherman/857
-TX - Texas,Stafford,11920 Southwest Frwy.,https://www.chuckecheese.com/storedetails/tx/stafford/571
-TX - Texas,Sugarland,2303 Town Center Drive,https://www.chuckecheese.com/storedetails/tx/sugarland/735
-TX - Texas,Texarkana,2400 Richmond Rd. Ste. 99,https://www.chuckecheese.com/storedetails/tx/texarkana/570
-TX - Texas,Tyler,736 West SW Loop 323,https://www.chuckecheese.com/storedetails/tx/tyler/31
-TX - Texas,Victoria,7800 Navarro,https://www.chuckecheese.com/storedetails/tx/victoria/581
-TX - Texas,Waco,5106 West Waco Drive,https://www.chuckecheese.com/storedetails/tx/waco/856
-TX - Texas,Webster,1541 West Bay Area Blvd.,https://www.chuckecheese.com/storedetails/tx/webster/592
-TX - Texas,Weslaco,725 E. Expressway 83,https://www.chuckecheese.com/storedetails/tx/weslaco/862
-TX - Texas,White Settlement,7750 Scott St.,https://www.chuckecheese.com/storedetails/tx/white-settlement/90
-TX - Texas,Wichita Falls,2935 SW Parkway,https://www.chuckecheese.com/storedetails/tx/wichita-falls/309
-UT - Utah,Layton,450 North Main Street,https://www.chuckecheese.com/storedetails/ut/layton/114
-UT - Utah,Salt Lake City,389 W. 1830 South Ste 700,https://www.chuckecheese.com/storedetails/ut/salt-lake-city/120
-VA - Virginia,Alexandria,6301 Richmond Hwy.,https://www.chuckecheese.com/storedetails/va/alexandria/75
-VA - Virginia,Chesapeake,1528 Sams Circle,https://www.chuckecheese.com/storedetails/va/chesapeake/3198
-VA - Virginia,Chesapeake (Square),4400 Peek Trail,https://www.chuckecheese.com/storedetails/va/chesapeake-(square)/3217
-VA - Virginia,Dale City,14085 Shoppers Best Way,https://www.chuckecheese.com/storedetails/va/dale-city/71
-VA - Virginia,Dulles (Sterling),21025 Dulles Town Circle,https://www.chuckecheese.com/storedetails/va/dulles-(sterling)/654
-VA - Virginia,Fairfax,9404 Main St,https://www.chuckecheese.com/storedetails/va/fairfax/84
-VA - Virginia,Fredericksburg,1280 Central Park Blvd.,https://www.chuckecheese.com/storedetails/va/fredericksburg/545
-VA - Virginia,Hampton,5 Towne Centre Way,https://www.chuckecheese.com/storedetails/va/hampton/3142
-VA - Virginia,Herndon,2465 Centreville- Ste. J9,https://www.chuckecheese.com/storedetails/va/herndon/99
-VA - Virginia,Manassas,7730 Streamwalk Lane,https://www.chuckecheese.com/storedetails/va/manassas/118
-VA - Virginia,Richmond,9030 Broad St.,https://www.chuckecheese.com/storedetails/va/richmond/56
-VA - Virginia,Richmond,10430 Midlothian Turnpike,https://www.chuckecheese.com/storedetails/va/richmond/652
-VA - Virginia,Roanoke,4059 Electric Rd.,https://www.chuckecheese.com/storedetails/va/roanoke/972
-VA - Virginia,Virginia Beach,2699 Lishelle Place,https://www.chuckecheese.com/storedetails/va/virginia-beach/548
-VA - Virginia,Winchester,145 E. Tevis Street,https://www.chuckecheese.com/storedetails/va/winchester/119
-WA - Washington,Bellevue,2239 148th Avenue NE,https://www.chuckecheese.com/storedetails/wa/bellevue/305
-WA - Washington,Burlington,621 Cascade Mall Drive,https://www.chuckecheese.com/storedetails/wa/burlington/338
-WA - Washington,Kent,25817 104th Avenue SE,https://www.chuckecheese.com/storedetails/wa/kent/306
-WA - Washington,Lynnwood,3717  196th Street SW  Suite 100,https://www.chuckecheese.com/storedetails/wa/lynnwood/624
-WA - Washington,Olympia,625 Black Lake Blvd.101,https://www.chuckecheese.com/storedetails/wa/olympia/300
-WA - Washington,Richland,2610 Columbia Center Blvd,https://www.chuckecheese.com/storedetails/wa/richland/3047
-WA - Washington,Silverdale,2771 NW Myhre Road,https://www.chuckecheese.com/storedetails/wa/silverdale/622
-WA - Washington,Spokane,10007 N. Nevada Street,https://www.chuckecheese.com/storedetails/wa/spokane/343
-WA - Washington,Spokane Valley,14919 East Sprague Avenue,https://www.chuckecheese.com/storedetails/wa/spokane-valley/344
-WA - Washington,Tacoma,4911 Tacoma Mall Blvd,https://www.chuckecheese.com/storedetails/wa/tacoma/626
-WA - Washington,Vancouver,7721 NE Vancouver Plaza Dr.,https://www.chuckecheese.com/storedetails/wa/vancouver/333
-WI - Wisconsin,Brookfield,19125 W. Blue Mound Rd.,https://www.chuckecheese.com/storedetails/wi/brookfield/841
-WI - Wisconsin,Grand Chute,4671 Michales Dr.,https://www.chuckecheese.com/storedetails/wi/grand-chute/603
-WI - Wisconsin,Green Bay,1273 Lombardi Access,https://www.chuckecheese.com/storedetails/wi/green-bay/319
-WI - Wisconsin,Janesville,2500 Milton Avenue,https://www.chuckecheese.com/storedetails/wi/janesville/728
-WI - Wisconsin,LaCrosse,4444 State Rd 16,https://www.chuckecheese.com/storedetails/wi/lacrosse/724
-WI - Wisconsin,Madison,438 Grand Canyon Dr.,https://www.chuckecheese.com/storedetails/wi/madison/604
-WI - Wisconsin,Milwaukee,2701 Chase Ave.,https://www.chuckecheese.com/storedetails/wi/milwaukee/842
-WI - Wisconsin,Racine,5612 Durand Ave.,https://www.chuckecheese.com/storedetails/wi/racine/726
-WI - Wisconsin,West Allis,2990 South 108th Ave.,https://www.chuckecheese.com/storedetails/wi/west-allis/843
-WV - West Virginia,Charleston,2846 Mountaineer Blvd.,https://www.chuckecheese.com/storedetails/wv/charleston/628
-AB - Alberta,Calgary,2612 32ND Street NE,https://www.chuckecheese.com/storedetails/ab/calgary/874
-AB - Alberta,Edmonton,9863 19th Avenue NW,https://www.chuckecheese.com/storedetails/ab/edmonton/834
-AB - Alberta,North Edmonton,14245 137th Avenue NW,https://www.chuckecheese.com/storedetails/ab/north-edmonton/835
-BC - British Columbia,Langley,6339 200th Street,https://www.chuckecheese.com/storedetails/bc/langley/847
-ON - Ontario,Mississauga - West,2945 Argentia Road,https://www.chuckecheese.com/storedetails/on/mississauga---west/836
-ON - Ontario,Mississauga-Dixie Rd.,4141 Dixie Rd.,https://www.chuckecheese.com/storedetails/on/mississauga-dixie-rd./844
-ON - Ontario,Vaughan,3255 Rutherford Road,https://www.chuckecheese.com/storedetails/on/vaughan/873
-ON - Ontario,Whitby,75 Consumers Drive- Bldg. J,https://www.chuckecheese.com/storedetails/on/whitby/833
-ON - Ontario,Willowdale,2452 Sheppard Ave. East-,https://www.chuckecheese.com/storedetails/on/willowdale/845
-ON - Ontario,Windsor,4450 Walker Road- Unit A,https://www.chuckecheese.com/storedetails/on/windsor/831
-SK - Saskatchewan,Regina,685 University Park Dr.,https://www.chuckecheese.com/storedetails/sk/regina/872
+name,address,phone,latitude,longitude
+Chuck E. Cheese Birmingham,"500 Old Town Rd., Birmingham, AL",,33.4255783,-86.701468
+Chuck E. Cheese Birmingham,"4647 Hwy. 280, Birmingham, AL",,31.0897491,-97.7147273
+Chuck E. Cheese Decatur,"1801 Beltline Rd. Suite G, Decatur, AL",,41.905961,-87.847181
+Chuck E. Cheese Dothan,"1001 Commons Drive, Dothan, AL",,40.7399381,-89.6338628
+Chuck E. Cheese Huntsville,"1220 Jordon Lane NW, Huntsville, AL",,34.5729654,-87.0183816
+Chuck E. Cheese Mobile,"710 Downtowner Loop W, Mobile, AL",,36.3529925,-82.3976426
+Chuck E. Cheese Montgomery,"1116 Eastdale Mall, Montgomery, AL",,35.1326661,-85.2374078
+Chuck E. Cheese Sheffield,"4700 Hatch Blvd, Sheffield, AL",,32.4005931,-99.7626407
+Chuck E. Cheese Tuscaloosa,"1800 McFarland Blvd. E., Ste. 508, Tuscaloosa, AL",,35.0491312,-89.8683229
+Chuck E. Cheese Fayetteville,"2999 N. College Ave. Ste. 12, Fayetteville, AR",,39.7733366,-89.6701611
+Chuck E. Cheese Ft. Smith,"1200 Waldron #148, Ft. Smith, AR",,39.0475432,-94.3608486
+Chuck E. Cheese Jonesboro,"3400 E. Highland Dr., Jonesboro, AR",,38.7781408,-90.5182029
+Chuck E. Cheese Little Rock,"2706 S. Shackleford Rd., Little Rock, AR",,34.9657213,-90.000804
+Chuck E. Cheese Carson,"20700 Avalon Blvd., Suite 175, Carson, CA",,32.3106108,-106.7431832
+Chuck E. Cheese Cerritos,"11231 183rd Street, Cerritos, CA",,38.9615075,-92.3695622
+Chuck E. Cheese Citrus Heights,"6251 Sunrise Blvd., Citrus Heights, CA",,46.8627471,-96.8317442
+Chuck E. Cheese Corona,"191 N. McKinley, Corona, CA",,37.1491913,-93.2560776
+Chuck E. Cheese Costa Mesa,"2300 Harbor Blvd.- Bldg. 25, Costa Mesa, CA",,35.9727176,-77.810524
+Chuck E. Cheese Diamond Bar,"1900 S. Brea Canyon Rd., Diamond Bar, CA",,35.2628348,-81.1328366
+Chuck E. Cheese Escondido,"1126 W. Valley Pkwy., Escondido, CA",,35.0747649,-78.9544116
+Chuck E. Cheese Huntington Beach,"15511 Edwards St., Huntington Beach, CA",,41.9266337,-87.6740639
+Chuck E. Cheese La Mirada,"15100 Rosecrans, La Mirada, CA",,33.7729613,-117.9216294
+Chuck E. Cheese Moreno Valley,"23160 Sunnymead Blvd., Moreno Valley, CA",,40.7204313,-74.0952424
+Chuck E. Cheese Palm Desert,"72513 HWY.111 Suite B, Palm Desert, CA",,33.6486995,-83.9957119
+Chuck E. Cheese San Diego,"9840 Hibert St., San Diego, CA",,43.6187874,-116.2592581
+Chuck E. Cheese San Diego,"3414 College Ave., San Diego, CA",,32.5409905,-94.7522933
+Chuck E. Cheese Manchester,"82 Buckland St., Manchester, CT",,41.5570238,-90.5623894
+Chuck E. Cheese Lakeland,"3558 US Hwy 98 North, Lakeland, FL",,32.396875,-90.1375424
+Chuck E. Cheese Pembroke Pines,"8515 Pines Blvd., Pembroke Pines, FL",,35.9428337,-86.8216927
+Chuck E. Cheese Pensacola,"7350 Plantation Rd., Pensacola, FL",,35.1699237,-89.7923116
+Chuck E. Cheese Pompano Beach,"2201 N Federal Highway #201, Pompano Beach, FL",,32.9310307,-96.810734
+Chuck E. Cheese Port Orange,"5539 S. Williamson Blvd, Port Orange, FL",,36.5906979,-87.2904084
+Chuck E. Cheese St. Petersburg,"1024 58th St. North, St. Petersburg, FL",,33.195913,-97.1302591
+Chuck E. Cheese Stuart,"2400 NW Federal Hwy., Stuart, FL",,29.7344351,-95.6035597
+Chuck E. Cheese Sunrise,"8099 W Oakland Park Blvd, Sunrise, FL",,35.8482169,-86.4204086
+Chuck E. Cheese Tallahassee,"2810 Sharer Road Ste. 13, Tallahassee, FL",,30.1211998,-94.1640941
+Chuck E. Cheese Tampa,"14308 Dale Mabry Hwy, Tampa, FL",,35.925361,-84.0539865
+Chuck E. Cheese W. Palm Beach,"2471 Okeechobee Blvd, W. Palm Beach, FL",,32.7073522,-97.1337325
+Chuck E. Cheese Wesley Chapel,"6170 Wesley Grove Blvd., Wesley Chapel, FL",,32.9675278,-97.0381243
+Chuck E. Cheese West Melbourne,"2250 Coastal Lane, West Melbourne, FL",,36.171277,-86.507399
+Chuck E. Cheese Alpharetta,"925 North Point Drive, Alpharetta, GA",,39.1941558,-76.6101899
+Chuck E. Cheese Atlanta,"2990 Cumberland Blvd SE, Atlanta, GA",,33.9546064,-80.3760812
+Chuck E. Cheese Augusta,"3435 Wrightsboro Rd., Augusta, GA",,30.2124164,-95.4579188
+Chuck E. Cheese Buford,"1690 Mall of Georgia Blvd, Buford, GA",,39.8252333,-75.1021327
+Chuck E. Cheese Columbus,"3201 Macon Rd., Columbus, GA",,30.0094719,-95.4631498
+Chuck E. Cheese Darien,"7409 Cass Ave., Darien, IL",,33.1022544,-96.6772513
+Chuck E. Cheese Fairview Heights,"10850 Lincoln Trail, Fairview Heights, IL",,21.3224719,-157.8745834
+Chuck E. Cheese Gurnee,"1512 Nations Drive, Gurnee, IL",,27.70616,-97.37041
+Chuck E. Cheese Joliet,"3250 Chicagoland Circle, Joliet, IL",,34.06307,-83.9931911
+Chuck E. Cheese Matteson,"106 Towncenter, Matteson, IL",,42.2668523,-89.0408031
+Chuck E. Cheese Melrose Park,"1030 Winston Plaza, Melrose Park, IL",,32.9622422,-96.636452
+Chuck E. Cheese Naperville,"506 South Route 59, Naperville, IL",,31.7614986,-106.3565347
+Chuck E. Cheese Peoria,"2601 W. Lake, Peoria, IL",,40.0938862,-83.0886037
+Chuck E. Cheese Rockford,"3600 E. State St., Rockford, IL",,41.4182803,-81.9120543
+Chuck E. Cheese Skokie,"7142 Carpenter, Skokie, IL",,40.7660104,-84.1569097
+Chuck E. Cheese Springfield,"2369 McArthur Ave, Springfield, IL",,39.6356588,-84.2272666
+Chuck E. Cheese Streamwood,"1000C S. Barrington Rd., Streamwood, IL",,39.924323,-82.8821478
+Chuck E. Cheese Tinley Park,"16090 S. Harlem Ave., Tinley Park, IL",,41.0234079,-80.6476178
+Chuck E. Cheese Vernon Hills,"700 N. Milwaukee Avenue, Vernon Hills, IL",,36.1134861,-115.307372
+Chuck E. Cheese Villa Park,"200 W. Roosevelt, Villa Park, IL",,40.6846975,-73.9768194
+Chuck E. Cheese Avon,"9931 E. US Highway 36, Avon, IN",,42.7905894,-78.8135979
+Chuck E. Cheese Clarksville,"1100 E. State Hwy. 131, Clarksville, IN",,40.8239839,-73.9299832
+Chuck E. Cheese Columbus,"1455 N. National Road, Columbus, IN",,40.9396958,-74.2716666
+Chuck E. Cheese Evansville,"559 N. Green River Rd., Evansville, IN",,36.0216502,-115.1169315
+Chuck E. Cheese Ft. Wayne,"711 Coliseum Blvd. W, Ft. Wayne, IN",,36.1658319,-115.0605
+Chuck E. Cheese Indianapolis,"5501 E. 82nd St., Indianapolis, IN",,36.0626067,-115.0510575
+Chuck E. Cheese Indianapolis,"8804 US 31 South, Indianapolis, IN",,36.3037945,-86.6930696
+Chuck E. Cheese Indianapolis,"10021 E. Washington Street, Indianapolis, IN",,30.1574551,-97.7881319
+Chuck E. Cheese Kokomo,"1919 South Reed Road, Kokomo, IN",,30.6251971,-96.3036686
+Chuck E. Cheese Lafayette,"100 S. Creasy Lane #100, Lafayette, IN",,29.8748657,-95.6459438
+Chuck E. Cheese Merrillville,"2961 E. 80th Ave, Merrillville, IN",,32.6607259,-96.8814705
+Chuck E. Cheese Mishawaka,"822 W. McKinley, Mishawaka, IN",,13.490213,144.780742
+Chuck E. Cheese Muncie,"1611 W. McGalliard Rd., Muncie, IN",,25.959261,-97.507624
+Chuck E. Cheese Olathe,"15225 W. 134th Street, Olathe, KS",,45.4966969,-122.5690018
+Chuck E. Cheese Overland Park,"10510 Metcalf Lane, Overland Park, KS",,44.966999,-122.982652
+Chuck E. Cheese Topeka,"2215 SW Wanamaker Rd., Topeka, KS",,40.0692232,-75.4435494
+Chuck E. Cheese Wichita,"3223 N. Rock Rd., Wichita, KS",,41.6149515,-83.6693338
+Chuck E. Cheese Bowling Green,"2625 Scottsville Road, Bowling Green, KY",,40.4828179,-78.3987627
+Chuck E. Cheese Florence,"7635 Mall Road, Florence, KY",,40.551448,-80.01866
+Chuck E. Cheese Lexington,"1555 New Circle Rd., Lexington, KY",,40.6326005,-75.4804601
+Chuck E. Cheese Alexandria,"1725 Metro Dr., Alexandria, LA",,41.7197596,-71.4835971
+Chuck E. Cheese Baton Rouge,"11324 Boardwalk, Baton Rouge, LA",,18.3598231,-66.1890662
+Chuck E. Cheese Monroe,"3731 Pecanland Mall Drive, Monroe, LA",,35.2455394,-97.4843759
+Chuck E. Cheese New Orleans,"3701 General DeGaulle, New Orleans, LA",,41.6986886,-83.6463559
+Chuck E. Cheese Danvers,"139 Endicott, Danvers, MA",,40.1677973,-74.8957118
+Chuck E. Cheese Everett,"29 Mystic View Rd., Everett, MA",,34.1915365,-79.8328913
+Chuck E. Cheese Leominster,"132 Sacks Blvd., Leominster, MA",,40.2084712,-75.2259494
+Chuck E. Cheese Lowell,"199 Plain St. Unit 5, Lowell, MA",,33.6831288,-117.7498768
+Chuck E. Cheese Natick,"801 Worcester, Natick, MA",,32.808241,-80.0105956
+Chuck E. Cheese Springfield,"1716 Boston Rd., Springfield, MA",,34.0112402,-118.1139918
+Chuck E. Cheese Annapolis,"2333-A Forest Dr., Annapolis, MD",,44.9407531,-92.9093256
+Chuck E. Cheese Baltimore,"8354 Eastern Ave., Baltimore, MD",,30.4355736,-89.089492
+Chuck E. Cheese Frederick,"7210 Guilford Drive, Frederick, MD",,43.0196013,-85.6866203
+Chuck E. Cheese Glen Burnie,"6637 Governor Ritchie Hwy., Glen Burnie, MD",,44.7459076,-93.2900487
+Chuck E. Cheese Hagerstown,"17618 Valley Mall Blvd., Hagerstown, MD",,31.3254934,-89.3754772
+Chuck E. Cheese Largo,"1100 Shoppers Way, Largo, MD",,44.8659998,-93.3266937
+Chuck E. Cheese Rockville,"5270 Randolph Road, Rockville, MD",,43.4815956,-83.976472
+Chuck E. Cheese Salisbury,"2300 N. Salisbury Blvd., Salisbury, MD",,42.6369647,-83.125946
+Chuck E. Cheese Silver Spring,"Location Closed -13807 Outlet Drive, Silver Spring, MD",,42.9846565,-83.7481222
+Chuck E. Cheese St. Cloud,"3318 W. Division St., St. Cloud, MN",,28.0769328,-80.7029405
+Chuck E. Cheese West St. Paul,"1422 South Roberts, West St. Paul, MN",,30.4787474,-97.6786177
+Chuck E. Cheese Woodbury,"445 Commerce Drive, Woodbury, MN",,39.7630604,-86.3469438
+Chuck E. Cheese Columbia,"2003 W. Worley Road, Columbia, MO",,30.3202263,-81.5446033
+Chuck E. Cheese Hattiesburg,"1000 Turtlecreek Drive, Hattiesburg, MS",,29.3557254,-98.4947083
+Chuck E. Cheese Winston Salem,"620 Hanes Mall Blvd., Winston Salem, NC",,42.7394312,-84.6267391
+Chuck E. Cheese Bridgewater,"600 Promenade Blvd., Bridgewater, NJ",,39.0928104,-84.269051
+Chuck E. Cheese Cherry Hill,"2100 Rt. 38, Cherry Hill, NJ",,41.6535656,-81.3661278
+Chuck E. Cheese Deptford,"1500 Almonesson Rd., Deptford, NJ",,37.6968714,-121.0241912
+Chuck E. Cheese East Hanover,"145 Rt 10, East Hanover, NJ",,43.0562929,-76.0856954
+Chuck E. Cheese Reno,"5000 Smithridge Dr., Reno, NV",,39.9212884,-75.3206965
+Chuck E. Cheese Amherst,"4994 Harlem Rd., Amherst, NY",,48.4600198,-122.3387393
+Chuck E. Cheese Bronx,"1816 Gunhill Road, Bronx, NY",,42.7114958,-88.998511
+Chuck E. Cheese Bronx,"700 Exterior Street, Bronx, NY",,47.630518,-122.1451909
+Chuck E. Cheese Latham,"601 Troy Schenectady Rd., Latham, NY",,37.0625684,-76.425267
+Chuck E. Cheese New Hartford,"4631 Commercial Drive, New Hartford, NY",,40.2780566,-76.8245834
+Chuck E. Cheese Syracuse,"3023 Erie Boulevard, Syracuse, NY",,26.353181,-80.205016
+Chuck E. Cheese Vestal,"3901 Vestal Parkway E., Vestal, NY",,34.8531933,-82.3370929
+Chuck E. Cheese Akron,"2779 West Market Street, Akron, OH",,35.6109789,-97.5534163
+Chuck E. Cheese Canton,"6370 Strip Ave.   NW, Canton, OH",,41.1171949,-85.1522305
+Chuck E. Cheese Cincinnati,"4394 Eastgate Square Dr. 900, Cincinnati, OH",,35.389994,-97.523067
+Chuck E. Cheese Cincinnati,"8801 Colerain, Cincinnati, OH",,40.2681501,-75.1292095
+Chuck E. Cheese Columbus,"3631 Soldano Blvd., Columbus, OH",,35.5572294,-97.6347231
+Chuck E. Cheese Columbus,"4284 Macsway, Columbus, OH",,29.4634143,-98.6233259
+Chuck E. Cheese Parma,"7601 W. Ridgewood RD., Parma, OH",,34.1051032,-117.6011451
+Chuck E. Cheese Sharonville,"1429 E. Kemper Rd., Sharonville, OH",,33.7715163,-118.1897286
+Chuck E. Cheese Springfield,"2345 Valley Loop Rd., Springfield, OH",,38.7833334,-121.2722038
+Chuck E. Cheese Toledo,"5455 Airport Hwy Ste 9-I, Toledo, OH",,28.0080594,-82.7280291
+Chuck E. Cheese Toledo,"5077 Monroe, Toledo, OH",,28.6625879,-81.4043275
+Chuck E. Cheese Warren,"2082 Niles Cortland Rd.- SE, Warren, OH",,39.565343,-104.903731
+Chuck E. Cheese Lawton,"1726 NW 82nd St Bldg A, Lawton, OK",,39.095145,-108.6034143
+Chuck E. Cheese Norman,"2201 Interstate Drive, Norman, OK",,37.3187885,-121.8294831
+Chuck E. Cheese Oklahoma City,"7601 S. Walker, Oklahoma City, OK",,34.4831642,-117.3378214
+Chuck E. Cheese Oklahoma City,"6817 NW Expressway, Oklahoma City, OK",,37.4734006,-122.217447
+Chuck E. Cheese Oklahoma City,"2241 West Memorial Rd., Oklahoma City, OK",,38.3473026,-122.7246648
+Chuck E. Cheese Tulsa,"7108 S. Memorial Dr., Tulsa, OK",,38.7905463,-104.7953973
+Chuck E. Cheese Beaverton,"4145 SW 110th Avenue, Beaverton, OR",,38.9049372,-104.7768579
+Chuck E. Cheese Portland,"9120 SE Powell, Portland, OR",,33.905008,-117.841717
+Chuck E. Cheese Salem,"3240 Lancaster Drive NE, Salem, OR",,34.151123,-118.0725404
+Chuck E. Cheese Altoona,"3415 Pleasant Valley Shopping Center, Altoona, PA",,34.0609199,-118.2830843
+Chuck E. Cheese Berwyn,"270 W. Swedesford Rd., Berwyn, PA",,33.9700697,-118.2329806
+Chuck E. Cheese Bridgeville,"1035 Washington Pike, Bridgeville, PA",,34.2237792,-118.3989003
+Chuck E. Cheese Dickson City,"1003 Commerce BLvd., Dickson City, PA",,27.9389505,-82.3080883
+Chuck E. Cheese Downingtown,"911 E. Lancaster Ave, Downingtown, PA",,33.8766087,-118.3431814
+Chuck E. Cheese Erie,"7200 Peach Street, Erie, PA",,43.626418,-79.605598
+Chuck E. Cheese Greensburg,"5256 Route 30 Space #273, Greensburg, PA",,37.9903639,-122.3079895
+Chuck E. Cheese Harrisburg,"3883 Union Deposit Rd., Harrisburg, PA",,39.1908699,-75.5390881
+Chuck E. Cheese Johnstown,"592 Galleria Drive, Johnstown, PA",,26.5261819,-80.0890229
+Chuck E. Cheese Lancaster,"2020 Fruitville Pike, Lancaster, PA",,40.5659505,-105.0776385
+Chuck E. Cheese Levittown,"1283 E. Lincoln Hwy., Levittown, PA",,33.7949573,-118.3356805
+Chuck E. Cheese Monroeville,"3800 William Penn Highway, Monroeville, PA",,43.775488,-79.3257
+Chuck E. Cheese North Wales,"1210 Bethlehem Pike, North Wales, PA",,42.2549665,-82.963104
+Chuck E. Cheese Philadelphia,"9175 Roosevelt #2, Philadelphia, PA",,50.4465527,-104.5472969
+Chuck E. Cheese Philadelphia,"9 Snyder Ave. (Corner of Front & Snyder), Philadelphia, PA",,33.419657,-86.7981409
+Chuck E. Cheese Pittsburgh,"20 McIntyre Square Drive, Pittsburgh, PA",,40.7293752,-111.9023447
+Chuck E. Cheese Springfield,"371 Baltimore Pike, Springfield, PA",,33.856888,-98.5413322
+Chuck E. Cheese Warrington,"1661 Easton Road B-2, Warrington, PA",,42.1457366,-72.4869582
+Chuck E. Cheese Whitehall,"1000 Lehigh Valley Mall, Whitehall, PA",,29.9229587,-90.0194209
+Chuck E. Cheese Wilkes-Barre Township,"2120 Wilkes-Barre Twnshp Mrkt pl, Wilkes-Barre Township, PA",,30.0026024,-90.135479
+Chuck E. Cheese Wyomissing,"2721 N. Meridian Blvd., Wyomissing, PA",,30.3775302,-91.067602
+Chuck E. Cheese York,"2801 E. Market St., York, PA",,41.9213035,-71.3584433
+Chuck E. Cheese Bayamon,"Rexville Town Centre Road 167  KM 17.6  Unit H-12, Bayamon, PR",,31.276382,-92.4717354
+Chuck E. Cheese Caguas,"Pueblo Supermarket  Plaza Centro Ave. Rafael J. Cordero  Carr. 30, Caguas, PR",,39.0267923,-95.762859
+Chuck E. Cheese Carolina,"Monte Real Plaza Carr. #3  KM 15.2  B.O. Canovanillas, Carolina, PR",,41.6806049,-86.1933719
+Chuck E. Cheese Warwick,"650 Bald Hill Rd., Warwick, RI",,40.41548,-86.841642
+Chuck E. Cheese Charleston,"1610 Sam Rittenburg Blvd. #103, Charleston, SC",,26.1736721,-97.9843633
+Chuck E. Cheese Columbia,"1775 Burning Tree, Columbia, SC",,30.4311127,-91.0579019
+Chuck E. Cheese Florence,"2701 David McLeod Blvd., Florence, SC",,37.0765116,-88.6902014
+Chuck E. Cheese Greenville,"253 Congaree Rd., Greenville, SC",,38.8843774,-94.7622824
+Chuck E. Cheese North Charleston,"7258 Rivers Avenue, North Charleston, SC",,42.5510997,-70.9335033
+Chuck E. Cheese Spartanburg,"660 Spartan Blvd.  #250, Spartanburg, SC",,32.556102,-93.7178867
+Chuck E. Cheese Sumter,"1121 Broad Street, Sumter, SC",,32.498848,-92.072942
+Chuck E. Cheese Rapid City,"30 Knollwood Drive, Rapid City, SD",,41.4716209,-87.3173966
+Chuck E. Cheese Sioux Falls,"2600 Louise, Sioux Falls, SD",,38.9996058,-84.6542471
+Chuck E. Cheese Antioch,"5312 Hickory Hollow Lane, Antioch, TN",,42.401234,-71.069774
+Chuck E. Cheese Chattanooga,"22 Northgate Park, Chattanooga, TN",,42.3011086,-71.3556237
+Chuck E. Cheese Clarksville,"2821 B. Wilma Rudolph Blvd., Clarksville, TN",,30.177757,-92.07207
+Chuck E. Cheese Cordova,"1636 N. Germantown Pkwy, Cordova, TN",,30.3044298,-89.8252458
+Chuck E. Cheese Franklin,"3073 Mallory Lane, Franklin, TN",,36.9490832,-86.4273381
+Chuck E. Cheese Jackson,"2021 North Highland Avenue, Jackson, TN",,30.4401121,-90.1439134
+Chuck E. Cheese Johnson City,"3020 Peoples Street, Johnson City, TN",,42.526755,-71.7385804
+Chuck E. Cheese Knoxville,"8225 Kingston Pike, Knoxville, TN",,29.6135717,-90.7582005
+Chuck E. Cheese Madison,"2070 Gallatin Rd. North, Madison, TN",,38.0190473,-84.4545134
+Chuck E. Cheese Memphis,"3649 Hickory Hill Rd., Memphis, TN",,42.6221026,-71.3177657
+Chuck E. Cheese Mount Juliet,"60 Belinda Parkway, Mount Juliet, TN",,38.2178656,-85.5887546
+Chuck E. Cheese Murfreesboro,"1720 Old Fort Parkway, Murfreesboro, TN",,40.2174535,-85.4049468
+Chuck E. Cheese Abilene,"4310 Buffalo Gap Road, Abilene, TX",,38.9375964,-94.669129
+Chuck E. Cheese Allen,"204 N Central Expressway- Ste 33, Allen, TX",,30.1987136,-93.1709454
+Chuck E. Cheese Amarillo,"2500 S. Coulter St.- Suite 124, Amarillo, TX",,39.6381174,-86.1308905
+Chuck E. Cheese Arlington,"2216 S. Fielder Rd., Arlington, TX",,29.8329638,-95.3796772
+Chuck E. Cheese Austin,"10515 North Mopac Expressway, Austin, TX",,37.7419622,-97.2452694
+Chuck E. Cheese Austin,"9811 S. I-35, Austin, TX",,29.6961353,-95.2958351
+Chuck E. Cheese Austin (Round Rock),"401 W. Louis Henna Blvd., Austin (Round Rock), TX",,32.83775,-97.0013817
+Chuck E. Cheese Beaumont,"4180 N. Dowlen Rd., Beaumont, TX",,32.6855109,-97.4003809
+Chuck E. Cheese Brownsville,"2800 N. Expressway, Brownsville, TX",,29.960359,-95.545529
+Chuck E. Cheese College Station,"1500 Harvey Road, College Station, TX",,29.7219128,-95.4405842
+Chuck E. Cheese Conroe,"16790 Interstate 45 South, Conroe, TX",,35.1855457,-101.9220208
+Chuck E. Cheese Corpus Christi,"5118 S. Staples, Corpus Christi, TX",,40.0364385,-75.6328716
+Chuck E. Cheese Dallas,"13364 Montfort, Dallas, TX",,33.4617916,-112.3467589
+Chuck E. Cheese Dallas,"7110 S. Westmoreland, Dallas, TX",,33.3920153,-111.6796454
+Chuck E. Cheese Denton,"341 South I-35E, Denton, TX",,33.2978935,-111.8929097
+Chuck E. Cheese El Paso,"710 Sunland Park, El Paso, TX",,33.6358674,-112.2049146
+Chuck E. Cheese El Paso,"9801 Gateway Blvd West, El Paso, TX",,33.554574,-112.133531
+Chuck E. Cheese El Paso,"1910 N. Zaragoza, El Paso, TX",,34.7663027,-87.6684002
+Chuck E. Cheese Fort Worth,"4860 SW Loop 820, Fort Worth, TX",,32.3202628,-94.5093425
+Chuck E. Cheese Fort Worth ,"9121 North Freeway, Fort Worth , TX",,36.1064472,-94.1490602
+Chuck E. Cheese Garland,"4992 State Hwy 190, Garland, TX",,32.7777662,-117.0094676
+Chuck E. Cheese Garland,"1340 W. Centerville, Garland, TX",,33.5780737,-117.7016897
+Chuck E. Cheese Grand Prairie,"2760 W. I-20, Grand Prairie, TX",,38.425741,-121.39209
+Chuck E. Cheese Grapevine,"2755 E. Grapevine Mills Circle, Grapevine, TX",,34.6902592,-118.1710682
+Chuck E. Cheese Harlingen,"2815 W. Expressway 83, Harlingen, TX",,38.2523505,-122.0685666
+Chuck E. Cheese Houston,"2220 FM 1960, Houston, TX",,34.087622,-118.0166958
+Chuck E. Cheese Houston,"6787 Hwy 6 North, Houston, TX",,32.7664286,-115.5282771
+Chuck E. Cheese Houston,"5535 Weslayan Ave, Houston, TX",,34.2729193,-118.4863315
+Chuck E. Cheese Houston,"17780 Tomball Pkwy., Houston, TX",,36.8073262,-119.8471101
+Chuck E. Cheese Houston,"600 Gulfgate Mall Center, Houston, TX",,34.740227,-86.6268467
+Chuck E. Cheese Houston,"4432 North Freeway, Houston, TX",,37.9601728,-121.7401173
+Chuck E. Cheese Houston,"12523 Westheimer Rd., Houston, TX",,34.1878469,-118.316464
+Chuck E. Cheese Humble,"124 E. FM1960 Bypass, Humble, TX",,33.9867723,-117.8439768
+Chuck E. Cheese Irving,"3903 W. Airport Frwy., Irving, TX",,32.2367524,-110.8613456
+Chuck E. Cheese Katy,"2002 Gulfmont, Katy, TX",,37.9717616,-122.0449458
+Chuck E. Cheese Killeen,"2303 E. Central Texas Expressway, Killeen, TX",,33.6570613,-117.9168556
+Chuck E. Cheese Lake Jackson,"100 West Hwy 332 #1098, Lake Jackson, TX",,34.091613,-117.908682
+Chuck E. Cheese Laredo,"5300 San Dario Ave. Suite 2205, Laredo, TX",,37.7089643,-121.9293115
+Chuck E. Cheese Lewisville,"2402 S. Stemmons, Lewisville, TX",,35.340671,-119.043916
+Chuck E. Cheese Longview,"312 Northwest Loop 281, Longview, TX",,37.323694,-122.018899
+Chuck E. Cheese Lubbock,"5612 West Loop 289, Lubbock, TX",,33.8668979,-118.0939592
+Chuck E. Cheese McAllen,"3300 Expressway 83 Bld. 1000, McAllen, TX",,32.3866249,-86.2028184
+Chuck E. Cheese McAllen,"1200 Trenton Road, Building 100, McAllen, TX",,38.6806606,-121.2739083
+Chuck E. Cheese Midland,"4703 W. Loop 250 N., Midland, TX",,33.9700807,-118.1762998
+Chuck E. Cheese N. Richland Hills,"7935 Grapevine Hwy., N. Richland Hills, TX",,32.7026985,-114.6044901
+Chuck E. Cheese Pasadena,"5075 Fairmont Pkwy., Pasadena, TX",,33.8861882,-117.5156377
+Chuck E. Cheese Pearland,"3141 Silverlake Village Drive, Pearland, TX",,34.7924192,-92.221553
+Chuck E. Cheese Plano,"1604 Preston Rd., Plano, TX",,33.8439058,-118.2609355
+Chuck E. Cheese Rockwall,"855 East Interstate 30, Rockwall, TX",,33.1936803,-87.5276319
+Chuck E. Cheese San Antonio,"6874 Ingram Rd. , San Antonio, TX",,35.8215015,-90.6606298
+Chuck E. Cheese San Antonio,"238  SW Military Dr., San Antonio, TX",,36.849253,-119.7920908
+Chuck E. Cheese San Antonio,"1403 N. Loop 1604 E., San Antonio, TX",,34.7280898,-92.3956339
+Chuck E. Cheese San Antonio,"11735 Bandera Road, San Antonio, TX",,31.2535236,-85.4274821
+Chuck E. Cheese Selma,"14565 IH 35 North, Selma, TX",,30.6748362,-88.1449217
+Chuck E. Cheese Sherman,"3808 US 75 North, Sherman, TX",,61.1947397,-149.8781403
+Chuck E. Cheese Stafford,"11920 Southwest Frwy., Stafford, TX",,39.2877908,-76.7350114
+Chuck E. Cheese Sugarland,"2303 Town Center Drive, Sugarland, TX",,39.3004069,-76.4963536
+Chuck E. Cheese Texarkana,"2400 Richmond Rd. Ste. 99, Texarkana, TX",,38.9802632,-76.5461105
+Chuck E. Cheese Tyler,"736 West SW Loop 323, Tyler, TX",,42.2393086,-71.7468884
+Chuck E. Cheese Victoria,"7800 Navarro, Victoria, TX",,39.1474281,-77.2089812
+Chuck E. Cheese Waco,"5106 West Waco Drive, Waco, TX",,36.3109364,-94.1799755
+Chuck E. Cheese Webster,"1541 West Bay Area Blvd., Webster, TX",,39.3947266,-77.4157338
+Chuck E. Cheese Weslaco,"725 E. Expressway 83, Weslaco, TX",,41.642217,-70.996077
+Chuck E. Cheese White Settlement,"7750 Scott St., White Settlement, TX",,42.743522,-71.1589201
+Chuck E. Cheese Olympia,"625 Black Lake Blvd.101, Olympia, WA",,33.9407501,-83.4581029
+Chuck E. Cheese Richland,"2610 Columbia Center Blvd, Richland, WA",,42.5107533,-92.4287463
+Chuck E. Cheese Silverdale,"2771 NW Myhre Road, Silverdale, WA",,34.0064432,-84.5747062
+Chuck E. Cheese Spokane,"10007 N. Nevada Street, Spokane, WA",,37.0062992,-121.5513168
+Chuck E. Cheese Spokane Valley,"14919 East Sprague Avenue, Spokane Valley, WA",,28.5510844,-81.4830771
+Chuck E. Cheese Tacoma,"4911 Tacoma Mall Blvd, Tacoma, WA",,30.4798422,-84.296999
+Chuck E. Cheese Vancouver,"7721 NE Vancouver Plaza Dr., Vancouver, WA",,34.0344605,-117.6909429
+Chuck E. Cheese Brookfield,"19125 W. Blue Mound Rd., Brookfield, WI",,33.6788965,-117.6672925
+Chuck E. Cheese Grand Chute,"4671 Michales Dr., Grand Chute, WI",,33.1172341,-117.0983553
+Chuck E. Cheese Green Bay,"1273 Lombardi Access, Green Bay, WI",,33.8972311,-118.0086253
+Chuck E. Cheese Janesville,"2500 Milton Avenue, Janesville, WI",,33.7368441,-118.0166875
+Chuck E. Cheese LaCrosse,"4444 State Rd 16, LaCrosse, WI",,33.8609694,-117.9227511
+Chuck E. Cheese Madison,"438 Grand Canyon Dr., Madison, WI",,34.0680386,-117.4313522
+Chuck E. Cheese Milwaukee,"2701 Chase Ave., Milwaukee, WI",,37.6521597,-122.1113923
+Chuck E. Cheese North Edmonton,"14245 137th Avenue NW, North Edmonton, AB",,39.097384,-76.854874
+Chuck E. Cheese Langley,"6339 200th Street, Langley, BC",,39.0818271,-76.9459837
+Chuck E. Cheese Mississauga - West,"2945 Argentia Road, Mississauga - West, ON",,42.5306687,-82.9121373
+Chuck E. Cheese Mississauga-Dixie Rd.,"4141 Dixie Rd., Mississauga-Dixie Rd., ON",,42.32207,-83.455905
+Chuck E. Cheese Vaughan,"3255 Rutherford Road, Vaughan, ON",,39.4000906,-76.5412668
+Chuck E. Cheese Whitby,"75 Consumers Drive- Bldg. J, Whitby, ON",,38.6242771,-76.9158684
+Chuck E. Cheese Willowdale,"2452 Sheppard Ave. East-, Willowdale, ON",,43.1502928,-86.2021895
+Chuck E. Cheese Windsor,"4450 Walker Road- Unit A, Windsor, ON",,42.2455,-83.768388
+Chuck E. Cheese Regina,"685 University Park Dr., Regina, SK",,42.9125227,-85.5775169
